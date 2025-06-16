@@ -61,7 +61,7 @@ Use the **SMART framework**:
 - **Brand Equity**: Value consumers associate with a brand.
 - **Brand Safety**: Avoiding harmful content associations.
 - **Influencer Marketing**: Partnering with creators to reach new audiences.
-- **Marketing Funnel**: Awareness → Consideration → Conversion → Loyalty
+- **Marketing Funnel**: Awareness &rightarrow; Consideration &rightarrow; Conversion &rightarrow; Loyalty
 - **Touchpoints**: Customer-brand interactions during the journey.
 
 ---
