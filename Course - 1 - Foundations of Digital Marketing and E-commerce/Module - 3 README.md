@@ -57,7 +57,7 @@ Use the **SMART framework**:
 
 ---
 
-## Bonus Terms
+## Terms & Definition 
 - **Brand Equity**: Value consumers associate with a brand.
 - **Brand Safety**: Avoiding harmful content associations.
 - **Influencer Marketing**: Partnering with creators to reach new audiences.
