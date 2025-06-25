@@ -1,6 +1,6 @@
 # Practical E-commerce & Digital Marketing: Funnels, Personas, Strategies
 
-- **Marketing Funnel Stages**: Awareness → Consideration → Conversion → Loyalty  
+- **Marketing Funnel Stages**: Awareness →&rarr; Consideration → Conversion → Loyalty  
 - **Customer Personas**: Defining target customers, goals, and barriers  
 - **Strategies & Tactics**: From influencer marketing to A/B testing, email flows, and remarketing
 
