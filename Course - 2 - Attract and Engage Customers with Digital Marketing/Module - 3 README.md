@@ -69,5 +69,3 @@
   - **Page speed**
 - Ensure site is **mobile-friendly** and **user-focused**.
 - Regularly monitor site performance with **Google Search Console**.
-
----
