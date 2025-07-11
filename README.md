@@ -22,4 +22,7 @@ The above copyright notice and this permission notice shall be included in all c
 **WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.**
 
 ---
+
+![Google-Digital-Marketing-E-commerce-Professional-CertificateOn Coursera](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~R6WC4ERTOLBG/CERTIFICATE_LANDING_PAGE~R6WC4ERTOLBG.jpeg)
+
   [![Google-Digital-Marketing-E-commerce-Professional-CertificateOn Coursera](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~116E1PKCVKWR/CERTIFICATE_LANDING_PAGE~116E1PKCVKWR.jpeg)](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~116E1PKCVKWR/CERTIFICATE_LANDING_PAGE~116E1PKCVKWR.jpeg) 
