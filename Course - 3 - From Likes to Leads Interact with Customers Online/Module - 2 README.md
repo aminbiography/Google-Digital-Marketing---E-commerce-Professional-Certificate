@@ -1,4 +1,4 @@
-# Social Media Marketing 
+# Social Media Marketing: Strategy, Tools, and Best Practices
 
 ---
 
