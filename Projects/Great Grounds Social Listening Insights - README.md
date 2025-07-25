@@ -52,6 +52,13 @@ We're open to collaboration! Feel free to:
 - Suggest integration ideas  
 
 ---
+## Contact
+
+For questions or collaboration, feel free to:
+
+- Open an issue at [github.com/aminbiography](https://github.com/aminbiography)
+- Email me directly at **info.aminbiography@gmail.com**
+---
 
 ## Acknowledgments
 
