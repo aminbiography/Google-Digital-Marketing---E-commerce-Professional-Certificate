@@ -64,5 +64,3 @@ For questions or collaboration, feel free to:
 
 Special thanks to the **Great Grounds marketing** and **customer service teams** for providing valuable customer insights.
 
-
-##### Project of C-03-M-03
