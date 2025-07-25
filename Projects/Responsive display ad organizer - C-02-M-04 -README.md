@@ -40,5 +40,3 @@ The ad creatives for Great Grounds successfully communicate quality and value th
 - **Image Enhancement**: Use tighter crops and lighting adjustments to better showcase the product and experience.
 
 This documentation can serve as a reference for launching and iterating on digital ad campaigns that reflect the brand's premium, authentic coffee experience.
-
-##### Project on C-02-M-04
