@@ -47,4 +47,3 @@ The Week 1 campaign balanced **timely events**, **inclusive messaging**, and **v
 
 This structured, multi-platform approach aims to elevate **The Right Size**’s voice as an inclusive, body-positive fashion brand with purpose-driven storytelling.
 
-#### C-03-M-02
