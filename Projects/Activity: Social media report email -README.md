@@ -48,7 +48,7 @@ I hope this message finds you well. I’m writing to share a performance update 
 
 ## Engagement Chart
 
-![Daylight Savings Posts Engagement Chart](attachment:be489d0e-77b1-4894-b885-1b901963b980.png)
+![Daylight Savings Posts Engagement Chart]([attachment:be489d0e-77b1-4894-b885-1b901963b980.png](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/d9984416e90a70df12902ea3e3bdd5429d899882/Projects/Activity%3A%20Social%20media%20report%20email%20%20image.jpg))
 
 ---
 
