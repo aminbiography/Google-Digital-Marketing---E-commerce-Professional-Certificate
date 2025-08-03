@@ -45,8 +45,7 @@ I hope this message finds you well. I’m writing to share a performance update 
 
 ## Engagement Chart
 
-![Daylight Savings Posts Engagement Chart](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/2f70c220a8bf8a915b8e360dddc8fb86e17ded71/Projects/Activity%3A%20Social%20media%20report%20email%20%20image.jpg?raw=true)
-
+![Social media report email image](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/6ed55dec5de25d96508e8d792e72136960df1bf1/bar-graph-chart-image/Activity%3A%20Social%20media%20report%20email%20image.jpg?raw=true)
 
 ## Strategic Adjustments Moving Forward
 
