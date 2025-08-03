@@ -4,6 +4,8 @@
 
 ## Project Description
 
+This campaign was documented and shared via an internal email report summarizing key findings and performance metrics.
+
 This campaign was designed to leverage the Daylight Saving Time change as a timely opportunity to engage our social media audience. Two distinct posts were published with the goal of increasing interactions such as likes, replies, reposts, and profile visits across platforms.
 
 ---
@@ -66,7 +68,6 @@ Best regards,
 
 ## Conclusion
 
-This campaign highlights the importance of **content tone**, **media use**, **posting time**, and **strategic hashtag usage** in driving engagement.
-
+This campaign report, delivered through internal email, highlights the importance of **content tone**, **media use**, **posting time**, and **strategic hashtag usage** in driving engagement.
 
 ---
