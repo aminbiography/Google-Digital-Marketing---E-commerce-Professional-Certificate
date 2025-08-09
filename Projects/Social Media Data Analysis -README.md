@@ -1,4 +1,4 @@
-# Activity: Social Media Data Analysis
+# Social Media Data Analysis
 
 ## Project Description
 This project analyzes the performance of two social media posts to assess what factors most influence audience engagement. The goal is to draw actionable insights to improve future content strategy based on key performance metrics, post content, and timing.
