@@ -2,6 +2,16 @@
 
 ---
 
+# Email Marketing Acronyms – Full Forms
+
+- **ROI** – **Return on Investment**  
+- **SWOT** – **Strengths, Weaknesses, Opportunities, Threats**  
+- **PESTLE** – **Political, Economic, Social, Technological, Legal, Environmental**  
+- **CTR** – **Click-Through Rate**  
+- **SMART** – **Specific, Measurable, Attainable, Relevant, Time-bound**  
+
+---
+
 ## Introduction to Email Marketing
 - Email marketing is sending branded or commercial messages to a predetermined list to inform, drive sales, and create community.  
 - **Effectiveness factors**:  
