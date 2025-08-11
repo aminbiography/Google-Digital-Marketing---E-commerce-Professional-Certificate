@@ -2,7 +2,7 @@
 
 ---
 
-# Email Marketing Acronyms – Full Forms
+## Email Marketing Acronyms – Full Forms
 
 - **ROI** – **Return on Investment**  
 - **SWOT** – **Strengths, Weaknesses, Opportunities, Threats**  
