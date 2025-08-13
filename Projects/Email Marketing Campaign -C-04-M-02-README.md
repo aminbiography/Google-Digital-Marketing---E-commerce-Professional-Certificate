@@ -68,7 +68,7 @@ This approach not only educates pet owners but also strengthens customer relatio
 
 ---
 
-## ✨──────────────────✨NEXT PROJECT ##✨──────────────────✨ ## ✨──────────────────✨NEXT PROJECT ##✨──────────────────✨
+## ✨──────────────────✨PROJECT SECOND ONE ##✨──────────────────✨ 
 
 ---
 
@@ -127,7 +127,7 @@ The promotional email successfully combined **wellness-focused messaging** with 
 
 By clearly stating the offer, maintaining a calm and inviting tone, and providing an easy path to purchase, Safe Hands Wellness Center reinforced its brand identity while achieving its sales goals.
 
----
+## ✨──────────────────✨PROJECT THIRD ONE ##✨──────────────────✨ 
 
 # Project Title
 **Email Marketing Campaign – Starr Auto Group Retention Email**
