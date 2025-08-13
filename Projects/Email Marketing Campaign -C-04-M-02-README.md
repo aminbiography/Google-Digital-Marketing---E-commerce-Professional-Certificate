@@ -25,8 +25,6 @@ The newsletter was designed to educate, build loyalty, and encourage appointment
 **Subject:** Pet Dental Care Tips for Happier Cats & Dogs  
 **Preview text:** Brush, treats & pro cleanings: what to do.
 
-![Lakewood Pet Clinic Email Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Lakewood%20Pet%20Clinic%20Newsletter.jpg)
-
 ---
 
 When it comes to your pet’s health, it can be easy to overlook their teeth.  
@@ -55,6 +53,10 @@ But with proper dental care, your furry friends can stay happy and healthy for y
 
 Hope to see you soon,  
 *Your friends at Lakewood Pet Clinic*
+
+---
+
+![Lakewood Pet Clinic Email Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Lakewood%20Pet%20Clinic%20Newsletter.jpg)
 
 ---
 
@@ -93,8 +95,6 @@ The promotional design aimed to balance health-focused messaging with an incenti
 **Subject:** June Special: 20% Off Signature Massages  
 **Preview text:** Use code JUNE20. Relax, refresh, renew.
 
-![Lakewood Pet Clinic Email Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Safe%20Hands%20Wellness%20Center%20Promotional%20Email.jpg)
-
 ---
 
 **Relax, refresh, renew.**  
@@ -114,8 +114,69 @@ with code: **JUNE20**
 
 ---
 
+![Massage Therapist Promotional Email Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Safe%20Hands%20Wellness%20Center%20Promotional%20Email.jpg)
+
+---
+
 ## Conclusion
 The promotional email successfully combined **wellness-focused messaging** with **time-sensitive incentives** to boost client engagement and drive bookings.  
 
 By clearly stating the offer, maintaining a calm and inviting tone, and providing an easy path to purchase, Safe Hands Wellness Center reinforced its brand identity while achieving its sales goals.
 
+---
+
+# Project Title
+**Email Marketing Campaign – Starr Auto Group Retention Email**
+
+---
+
+## Project Description
+This project involved creating a **customer retention email** for Starr Auto Group to remind clients of upcoming vehicle service.  
+
+The email included:  
+- A **clear subject line**: *Reminder: Your Vehicle Service Is Due June 30*  
+- A **concise preview text**: *Schedule today for inspection, rotation & oil.*  
+- Personalized greeting with placeholder `{{ fname }}` for first name insertion  
+- **List of recommended maintenance services** to inform the customer  
+- A **call-to-action button** for scheduling service  
+
+The tone was professional, helpful, and reassuring, emphasizing the value of regular maintenance in prolonging vehicle life and preventing costly repairs.
+
+---
+
+# Email 3: Automotive Repair Retention Email
+
+**From:** Starr Auto Group  
+**To:** <car service list>  
+**Subject:** Reminder: Your Vehicle Service Is Due June 30  
+**Preview text:** Schedule today for inspection, rotation & oil.
+
+---
+
+Hi {{ fname }},  
+
+This is a friendly reminder that your vehicle is due for service on **June 30th**.  
+Routine maintenance can extend the life of your car or truck and keep repair costs down.  
+That’s why it’s important to schedule regular service appointments.
+
+We recommend the following services for your vehicle:
+
+- **Full inspection**  
+- **Tire rotation**  
+- **Oil change**  
+- **Air filter replacement**  
+
+---
+
+[**Schedule service now**](#)
+
+---
+
+![Automotive Repair Retention Emai Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Starr%20Auto%20Group%20Retention%20Email.jpg)
+
+---
+
+## Conclusion
+This retention email combined **personalization** with **actionable service recommendations** to motivate customers to book maintenance appointments.  
+
+By making the due date clear, listing specific services, and including a direct booking link, Starr Auto Group created a convenient and persuasive reminder that supports both customer satisfaction and repeat business.
