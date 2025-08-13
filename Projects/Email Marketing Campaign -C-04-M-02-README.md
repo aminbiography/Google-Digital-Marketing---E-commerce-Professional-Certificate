@@ -56,7 +56,9 @@ Hope to see you soon,
 
 ---
 
-![Lakewood Pet Clinic Email Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Lakewood%20Pet%20Clinic%20Newsletter.jpg)
+**Visual Email Template – Lakewood Pet Clinic Newsletter**  
+![Lakewood Pet Clinic Email Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Lakewood%20Pet%20Clinic%20Newsletter.jpg)  
+*Figure 1: Educational newsletter on pet dental care from Lakewood Pet Clinic*
 
 ---
 
@@ -118,7 +120,9 @@ with code: **JUNE20**
 
 ---
 
-![Massage Therapist Promotional Email Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Safe%20Hands%20Wellness%20Center%20Promotional%20Email.jpg)
+**Visual Email Template – Safe Hands Wellness Center Promotional Email**  
+![Safe Hands Wellness Center Promotional Email Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Safe%20Hands%20Wellness%20Center%20Promotional%20Email.jpg)  
+*Figure 2: Promotional email offering a time-limited discount for Safe Hands Wellness Center massages*
 
 ---
 
@@ -126,6 +130,8 @@ with code: **JUNE20**
 The promotional email successfully combined **wellness-focused messaging** with **time-sensitive incentives** to boost client engagement and drive bookings.  
 
 By clearly stating the offer, maintaining a calm and inviting tone, and providing an easy path to purchase, Safe Hands Wellness Center reinforced its brand identity while achieving its sales goals.
+
+---
 
 ## ✨──────────────────✨PROJECT THIRD ONE✨──────────────────✨ 
 
@@ -176,7 +182,9 @@ We recommend the following services for your vehicle:
 
 ---
 
-![Automotive Repair Retention Emai Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Starr%20Auto%20Group%20Retention%20Email.jpg)
+**Visual Email Template – Starr Auto Group Retention Email**  
+![Starr Auto Group Retention Email Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Starr%20Auto%20Group%20Retention%20Email.jpg)  
+*Figure 3: Service reminder email for Starr Auto Group with maintenance recommendations and booking link*
 
 ---
 
