@@ -64,4 +64,58 @@ The newsletter successfully combined **valuable content** with **strategic email
 By providing helpful tips and a clear call-to-action, Lakewood Pet Clinic positioned itself as a trusted partner in pet care.  
 This approach not only educates pet owners but also strengthens customer relationships, driving both engagement and repeat business.
 
-*********************************************************************************************************************************************
+---
+
+# Project Title
+**Email Marketing Campaign – Safe Hands Wellness Center Promotional Email**
+
+---
+
+## Project Description
+This project involved creating a **promotional email** for Safe Hands Wellness Center to increase bookings and encourage clients to prioritize self-care.  
+
+The email included:  
+- A **clear subject line**: *June Special: 20% Off Signature Massages*  
+- A **concise preview text**: *Use code JUNE20. Relax, refresh, renew.*  
+- Warm, inviting **body content** promoting the health benefits of massage  
+- A **time-limited discount offer** to create urgency  
+- A **call-to-action button** encouraging readers to *Book a massage*  
+
+The tone was calm, nurturing, and persuasive, appealing to clients’ desire for wellness and relaxation.  
+The promotional design aimed to balance health-focused messaging with an incentive to purchase.
+
+---
+
+# Email 2: Massage Therapist Promotional Email
+
+**From:** Safe Hands Wellness Center  
+**To:** <client list>  
+**Subject:** June Special: 20% Off Signature Massages  
+**Preview text:** Use code JUNE20. Relax, refresh, renew.
+
+![Lakewood Pet Clinic Email Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Safe%20Hands%20Wellness%20Center%20Promotional%20Email.jpg)
+
+---
+
+**Relax, refresh, renew.**  
+
+Between work, family, and community obligations, we know it can be hard to put yourself first.  
+But a massage shouldn’t be a luxury—it’s a great way to improve health, prevent injury, and keep stress levels in check.  
+Investing in self-care helps us be fully present for the things that are most important.
+
+That’s why we’re offering a special, extended promotion:  
+
+For the month of June, **save 20% on signature massages**  
+with code: **JUNE20**
+
+---
+
+[**Book a massage**](#)
+
+---
+
+## Conclusion
+The promotional email successfully combined **wellness-focused messaging** with **time-sensitive incentives** to boost client engagement and drive bookings.  
+
+By clearly stating the offer, maintaining a calm and inviting tone, and providing an easy path to purchase, Safe Hands Wellness Center reinforced its brand identity while achieving its sales goals.
+
