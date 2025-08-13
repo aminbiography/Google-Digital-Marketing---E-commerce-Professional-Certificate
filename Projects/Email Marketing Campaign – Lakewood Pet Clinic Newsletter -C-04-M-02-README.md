@@ -25,7 +25,7 @@ The newsletter was designed to educate, build loyalty, and encourage appointment
 **Subject:** Pet Dental Care Tips for Happier Cats & Dogs  
 **Preview text:** Brush, treats & pro cleanings: what to do.
 
-![Lakewood Pet Clinic Email Template]<img src="https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20%E2%80%93%20Lakewood%20Pet%20Clinic%20Newsletter.jpg?raw=true" 
+<img src="https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20%E2%80%93%20Lakewood%20Pet%20Clinic%20Newsletter.jpg?raw=true" 
      alt="Lakewood Pet Clinic Email Template" 
      style="transform: scale(2); transform-origin: top left;">
 
