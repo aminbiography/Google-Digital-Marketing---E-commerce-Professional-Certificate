@@ -18,7 +18,7 @@ The newsletter was designed to educate, build loyalty, and encourage appointment
 
 ---
 
-# Email 1: Veterinary Clinic Newsletter
+# Email: Veterinary Clinic Newsletter
 
 **From:** Lakewood Pet Clinic  
 **To:** <cat owner list>; <dog owner list>  
@@ -70,6 +70,3 @@ This approach not only educates pet owners but also strengthens customer relatio
 
 ---
 
-## ✨──────────────────✨PROJECT END✨──────────────────✨ 
-
----
