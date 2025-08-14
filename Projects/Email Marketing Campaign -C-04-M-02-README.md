@@ -58,7 +58,7 @@ Hope to see you soon,
 
 **Visual Email Template – Lakewood Pet Clinic Newsletter**  
 ![Lakewood Pet Clinic Email Template](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Email%20Marketing%20Campaign%20–%20Lakewood%20Pet%20Clinic%20Newsletter.jpg)  
-*Figure 1: Educational newsletter on pet dental care from Lakewood Pet Clinic*
+*Figure: Educational newsletter on pet dental care from Lakewood Pet Clinic*
 
 ---
 
