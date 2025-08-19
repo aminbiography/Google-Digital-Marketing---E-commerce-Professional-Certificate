@@ -77,3 +77,10 @@ The final welcome email for Odos Eyewear successfully met all requirements:
 - Maintained a design consistent with Odos’ **brand attributes**—clean, stylish, and customer-friendly.  
 
 This project demonstrates the ability to create branded marketing emails in HubSpot, balancing **technical execution** (editor tools, formatting, testing) with **creative elements** (design, tone, imagery).  
+
+---
+
+## Project Preview
+Here’s a preview of the completed email design:  
+
+![Odos Eyewear Welcome Email](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/aead2310c224296c753e036bc06e91f8c8fa02b8/bar-graph-chart-image/Designing%20a%20Welcome%20Email%20for%20Odos%20Eyewear%20in%20HubSpot.jpg)
