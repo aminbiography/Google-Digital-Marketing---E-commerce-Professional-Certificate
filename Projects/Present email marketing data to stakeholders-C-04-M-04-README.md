@@ -24,7 +24,8 @@ By analyzing last year’s performance data, this project identifies which types
 
 -   **Content:** "Email Marketing Report"
 -   Introduces the presentation purpose.
-[View Slide 01](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Present%20email%20marketing%20data%20to%20stakeholders-01.jpg)
+![Slide 01](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Present%20email%20marketing%20data%20to%20stakeholders-01.jpg)
+
 
 ### Slide 02: Overall Marketing Goal
 
