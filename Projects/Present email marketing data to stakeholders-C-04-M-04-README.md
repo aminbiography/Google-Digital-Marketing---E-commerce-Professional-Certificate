@@ -24,11 +24,13 @@ By analyzing last year’s performance data, this project identifies which types
 
 -   **Content:** "Email Marketing Report"
 -   Introduces the presentation purpose.
+[View Slide 01](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Present%20email%20marketing%20data%20to%20stakeholders-01.jpg)
 
 ### Slide 02: Overall Marketing Goal
 
 -   **Goal:** Increase summer season ticket sales by 10% over last year.
 -   **Strategy:** Combination of paid, social, and email campaigns.
+[View Slide 02](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Present%20email%20marketing%20data%20to%20stakeholders-02.jpg)
 
 ### Slide 03: Email Marketing Goal
 
@@ -38,6 +40,7 @@ By analyzing last year’s performance data, this project identifies which types
         last year?
     2.  What content should we prioritize for each segment in the new
         campaign?
+[View Slide 03](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Present%20email%20marketing%20data%20to%20stakeholders-03.jpg)
 
 ### Slide 04: Email Subscriber Segments
 
@@ -46,6 +49,7 @@ By analyzing last year’s performance data, this project identifies which types
 -   **Never attended:** 42.9%\
 -   *Insight:* Past and never-attended make up over 75% of the
     list---engaging them is essential.
+[View Slide 04](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Present%20email%20marketing%20data%20to%20stakeholders-04.jpg)
 
 ### Slide 05: Open Rates by Email Category
 
@@ -55,6 +59,7 @@ By analyzing last year’s performance data, this project identifies which types
 -   **Newsletters:** Lowest, especially for never-attended.\
 -   *Insight:* Promotions and announcements are the best way to capture
     attention.
+[View Slide 05](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Present%20email%20marketing%20data%20to%20stakeholders-05.jpg)
 
 ### Slide 06: Open Rates by Promotion Type
 
@@ -63,6 +68,7 @@ By analyzing last year’s performance data, this project identifies which types
 -   **Never attended:** Prefer BOGO (\~7%).\
 -   *Insight:* Match promotions to motivations---exclusivity, urgency,
     or value.
+[View Slide 06](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Present%20email%20marketing%20data%20to%20stakeholders-06.jpg)
 
 ### Slide 07: Click-to-Open Rates (CTOR) by Promotion Type
 
@@ -71,6 +77,7 @@ By analyzing last year’s performance data, this project identifies which types
 -   **Never attended:** Most clicks on BOGO (\~3%).\
 -   *Insight:* CTOR confirms deeper engagement patterns align with open
     rates.
+[View Slide 07](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Present%20email%20marketing%20data%20to%20stakeholders-07.jpg)
 
 ### Slide 08: Conclusion and Recommendations
 
@@ -83,6 +90,7 @@ By analyzing last year’s performance data, this project identifies which types
 -   **Overall takeaway:** Promotions are the strongest driver across all
     segments. Tailoring the offer type to each audience maximizes
     engagement and supports the 10% sales growth goal.
+[View Slide 08](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Present%20email%20marketing%20data%20to%20stakeholders-08.jpg)
 
 ------------------------------------------------------------------------
 
