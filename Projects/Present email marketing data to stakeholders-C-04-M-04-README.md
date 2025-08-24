@@ -31,7 +31,7 @@ By analyzing last year’s performance data, this project identifies which types
 
 -   **Goal:** Increase summer season ticket sales by 10% over last year.
 -   **Strategy:** Combination of paid, social, and email campaigns.
-[View Slide 02](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Present%20email%20marketing%20data%20to%20stakeholders-02.jpg)
+![Slide 02](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Present%20email%20marketing%20data%20to%20stakeholders-02.jpg)
 
 ### Slide 03: Email Marketing Goal
 
