@@ -98,6 +98,11 @@ By analyzing last year’s performance data, this project identifies which types
 
 ------------------------------------------------------------------------
 
+## Original PowerPoint
+***lick here to view the Original PowerPoint Presentation***
+**[Click here to view the Original PowerPoint Presentation](https://docs.google.com/presentation/d/1D7PXkBES5a-yvvGaPJSefgIujfiXUFrNZpLGysEMbb8/edit?usp=drive_link)**
+
+
 ## How to Use This Report
 
 -   Present slides sequentially (01--08).\
