@@ -5,7 +5,9 @@ Plot Twist Theater Company and provides insights to increase engagement
 in the upcoming campaign. The goal is to support a **10% increase in
 summer season ticket sales** through targeted email strategies.
 
-------------------------------------------------------------------------
+## Project Files
+- **README.md** (full analysis with embedded images)  
+- **Slides** (original presentation created in PowerPoint, exported as images)  
 
 ## Project Objective
 
@@ -17,6 +19,7 @@ The objective of this project is to **increase summer season ticket sales by 10%
 
 By analyzing last year’s performance data, this project identifies which types of emails and promotions resonate most with each segment. The insights guide the content strategy for the new campaign to ensure emails are **more relevant, motivating, and effective** at driving ticket purchases.
 
+------------------------------------------------------------------------
 
 ## Slides Overview
 
