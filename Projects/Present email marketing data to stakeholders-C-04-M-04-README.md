@@ -7,7 +7,7 @@ summer season ticket sales** through targeted email strategies.
 
 ## Project Files
 - **README.md** (full analysis with embedded images)  
-- **Slides** (original presentation created in PowerPoint, exported as images)  
+- **Slides** (original presentation created in Google Slides, exported as images)  
 
 ## Project Objective
 
@@ -98,9 +98,9 @@ By analyzing last year’s performance data, this project identifies which types
 
 ------------------------------------------------------------------------
 
-## Original PowerPoint
-***Click here to view the Original PowerPoint Presentation***
-**[Click here to view the Original PowerPoint Presentation](https://docs.google.com/presentation/d/1D7PXkBES5a-yvvGaPJSefgIujfiXUFrNZpLGysEMbb8/edit?usp=drive_link)**
+## Original Google Slides
+***Click here to view the Original Google Slides Presentation***
+**[Click here to view the Original Google Slides Presentation](https://docs.google.com/presentation/d/1D7PXkBES5a-yvvGaPJSefgIujfiXUFrNZpLGysEMbb8/edit?usp=drive_link)**
 
 
 ## How to Use This Report
