@@ -60,12 +60,6 @@ By apologizing quickly and transparently while offering a goodwill gesture, Pixe
 
 ---
 
-## Image Reference
-For use in presentations or visuals, a thematic image (sci-fi portal) can support the game launch announcement:  
-![Sci-fi Portal](https://images.unsplash.com/photo-1605902711622-cfb43c44367e)
-
----
-
 ## Credits
 
 | Name / Team              | Role                          |
