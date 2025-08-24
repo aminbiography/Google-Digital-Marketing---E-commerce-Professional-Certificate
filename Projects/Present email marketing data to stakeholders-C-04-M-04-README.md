@@ -98,5 +98,6 @@ By analyzing last year’s performance data, this project identifies which types
 
 ## Author
 
-Prepared for **Plot Twist Theater Company** marketing team as part of
-the email campaign planning process.
+Prepared for **Plot Twist Theater Company** marketing team as part of the email campaign planning process.  
+
+**Author:** Mohammad Aminul Islam
