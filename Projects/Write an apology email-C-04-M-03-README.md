@@ -19,7 +19,7 @@ To fix errors in the original launch announcement for *The Thelos Chronicles IV:
    - Incorrect subject line date: *April 15* vs. correct date *May 15*.  
    - Broken pre-order link.
  
- ![Identify Mistakes](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Write%20an%20apology%20email-01.jpg)
+ ![Identify Mistakes](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Write-an-apology-email-01.jpg)
 
 2. **Draft Apology Email**
    - Acknowledge and apologize for mistakes.  
@@ -34,7 +34,7 @@ To fix errors in the original launch announcement for *The Thelos Chronicles IV:
 4. **Finalize Closing**
    - Express thanks and appreciation.  
 
- ![Draft Apology Email](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Write%20an%20apology%20email-02.jpg) 
+ ![Draft Apology Email](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Write-an-apology-email-02.jpg) 
  
 ---
 
