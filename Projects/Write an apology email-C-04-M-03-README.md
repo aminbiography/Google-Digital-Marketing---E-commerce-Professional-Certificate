@@ -63,5 +63,5 @@ By apologizing quickly and transparently while offering a goodwill gesture, Pixe
 ## Credits  
 
 **Prepared for:** Pixelated Games Team *(Game Design & Marketing Team)*  
-**Prepared by:** Mohammad Aminul Islam *(Digital Marketing Analyst)*  
+**Prepared by:** Mohammad Aminul Islam *(Digital Marketing & E-commerce Analyst)*  
 **Date:** August 25, 2025  
