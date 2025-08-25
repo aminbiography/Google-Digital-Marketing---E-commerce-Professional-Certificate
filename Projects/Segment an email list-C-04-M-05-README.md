@@ -48,5 +48,5 @@ This tailored approach will help build stronger brand loyalty and drive sales.
 
 ## Credit
 Prepared for: **Feels Like Home - For All**  
-Prepared by: **Mohammad Aminul Islam** (Digital Marketing Analyst)  
+Prepared by: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
 Date: **August 25, 2025**
