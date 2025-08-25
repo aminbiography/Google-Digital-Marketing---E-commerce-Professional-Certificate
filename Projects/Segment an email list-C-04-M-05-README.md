@@ -1,4 +1,4 @@
-# Feels Like Home — For All Email Segmentation
+# Feels Like Home - For All Email Segmentation
 
 ## Project Title
 Email Segmentation for Targeted Marketing Campaigns
@@ -30,7 +30,7 @@ This project applies **manual segmentation** rules to a subscriber dataset from 
 - **Pet-friendly Content:** 9 (Felix, Jaya, Rosa, Casey, Saanvi, Quinn, Hector, Shirin, Ahmet)
 - **Overlap (two or more segments):** 8 (Felix, Rosa, Deonte, Casey, Leona, Shirin, Ahmet, Min)
 
-## 📊 Visual Reference
+## Visual Reference
 
 Here’s a visual bar chart of the segmentation process:
 
@@ -55,6 +55,6 @@ Segmentation ensures each subscriber receives the **most relevant content**:
 This tailored approach will help build stronger brand loyalty and drive sales.
 
 ## Credit
-Prepared for: **Feels Like Home — For All**  
+Prepared for: **Feels Like Home - For All**  
 Prepared by: **Mohammad Aminul Islam** (Digital Marketing Analyst)  
 Date: **August 25, 2025**
