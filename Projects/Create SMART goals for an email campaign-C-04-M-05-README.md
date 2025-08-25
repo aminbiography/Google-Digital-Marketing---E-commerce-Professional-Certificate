@@ -44,8 +44,9 @@ Together, these SMART goals provide a structured roadmap to **maximize subscribe
 
 ## Credits
 
-| Name / Team            | Role                               |
-|-------------------------|------------------------------------|
-| Feels Like Home Marketing Team | Campaign Strategy & Planning |
-| Mohammad Aminul Islam   | Documentation & Draft Author       |
+| Name / Team                   | Role                                  |
+|--------------------------------|---------------------------------------|
+| Feels Like Home Marketing Team | Campaign Support & Collaboration      |
+| Mohammad Aminul Islam          | Strategy, Planning, Documentation     |
+
 
