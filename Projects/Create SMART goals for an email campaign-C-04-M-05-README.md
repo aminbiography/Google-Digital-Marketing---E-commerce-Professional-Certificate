@@ -49,5 +49,5 @@ Together, these SMART goals provide a structured roadmap to **maximize subscribe
 ## Credits  
 
 **Prepared for:** *Feels Like Home Marketing Team*  
-**Prepared by:** Mohammad Aminul Islam *(Digital Marketing Analyst)*  
+**Prepared by:** Mohammad Aminul Islam *(Digital Marketing & E-commerce Analyst)*  
 **Date:** August 25, 2025  
