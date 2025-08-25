@@ -41,3 +41,11 @@ By rewriting the campaign objectives into SMART goals, the Feels Like Home marke
 - Aligned email marketing directly with the company’s **core business objective** of expanding its customer base by 30% in the first year of the *For All* product line.
 
 Together, these SMART goals provide a structured roadmap to **maximize subscriber engagement, boost conversions, and drive sustainable growth.**
+
+## Credits
+
+| Name / Team            | Role                               |
+|-------------------------|------------------------------------|
+| Feels Like Home Marketing Team | Campaign Strategy & Planning |
+| Mohammad Aminul Islam   | Documentation & Draft Author       |
+
