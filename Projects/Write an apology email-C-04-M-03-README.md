@@ -38,6 +38,11 @@ To fix errors in the original launch announcement for *The Thelos Chronicles IV:
  
 ---
 
+### Supporting Document  
+***[Open Google Doc](https://docs.google.com/document/d/1sXoJB4yMDHusgfrEUduNiEtE6Qp2wsvJspFPQEVoq3U/edit?usp=sharing)***
+
+---
+
 ## Description
 The initial launch email created confusion with conflicting dates and a non-functional pre-order link. To resolve this, an apology email was crafted that:
 
@@ -62,5 +67,7 @@ By apologizing quickly and transparently while offering a goodwill gesture, Pixe
 
 ## Credits  
 
-**Prepared by:** Mohammad Aminul Islam *(Marketing Team & Strategy – Support & Author)*  
-**With support from:** Pixelated Games Team *(Game Design & Marketing Team)*
+**Prepared for:** Pixelated Games Team *(Game Design & Marketing Team)*  
+**Prepared by:** Mohammad Aminul Islam *(Digital Marketing Analyst)*  
+**Date:** August 25, 2025  
+
