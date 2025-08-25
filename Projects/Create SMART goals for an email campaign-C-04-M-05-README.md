@@ -42,12 +42,8 @@ By rewriting the campaign objectives into SMART goals, the Feels Like Home marke
 
 Together, these SMART goals provide a structured roadmap to **maximize subscriber engagement, boost conversions, and drive sustainable growth.**
 
-## Credits
+## Credits  
 
-| Name / Team                   | Role                                  |
-|--------------------------------|---------------------------------------|
-| Feels Like Home Marketing Team | Campaign Support & Collaboration      |
-| Mohammad Aminul Islam          | Strategy, Planning - Support & Author   |
-
-
+**Prepared by:** Mohammad Aminul Islam *(Strategy & Planning, Author)*  
+**With support from:** Feels Like Home Marketing Team *(Campaign Collaboration)*
 
