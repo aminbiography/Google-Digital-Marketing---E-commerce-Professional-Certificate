@@ -35,8 +35,8 @@ Here’s a visual bar chart of the segmentation process:
 
 ![Segmentation Bar Graph](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Segment%20an%20email%20list.jpg)
 
-🔗 You can also open the full segmentation dataset in **Google Sheets** for interactive sorting and filtering:  
-[Open Segmentation Spreadsheet](https://your-google-spreadsheet-link-here)
+# 🔗 You can also open the full segmentation dataset in **Google Sheets** for interactive sorting and filtering:  
+[Open Segmentation Spreadsheet](https://docs.google.com/spreadsheets/d/1t-fsx-Lcssbjq8O-EtIVleL0d-MPx59MDn4yAUoMrxE/edit?usp=drive_link)
 
 ## Conclusion
 Segmentation ensures each subscriber receives the **most relevant content**:
