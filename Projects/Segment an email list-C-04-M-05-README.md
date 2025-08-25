@@ -31,12 +31,12 @@ This project applies **manual segmentation** rules to a subscriber dataset from 
 - **Overlap (two or more segments):** 8 (Felix, Rosa, Deonte, Casey, Leona, Shirin, Ahmet, Min)
 
 ## Visual Reference
-Here’s a visual snippet of the segmentation process:
+**Here’s a visual snippet of the segmentation process:**
 
 ![Segmentation Spreadsheet visual snippet](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Segment%20an%20email%20list.jpg)
 
 ### You can also open the full segmentation dataset in **Google Sheets** for interactive sorting and filtering:  
-***[Open Segmentation Spreadsheet](https://docs.google.com/spreadsheets/d/1t-fsx-Lcssbjq8O-EtIVleL0d-MPx59MDn4yAUoMrxE/edit?usp=drive_link)***
+**[Open Segmentation Spreadsheet](https://docs.google.com/spreadsheets/d/1t-fsx-Lcssbjq8O-EtIVleL0d-MPx59MDn4yAUoMrxE/edit?usp=drive_link)**
 
 ## Conclusion
 Segmentation ensures each subscriber receives the **most relevant content**:
