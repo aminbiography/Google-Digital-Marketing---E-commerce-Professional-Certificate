@@ -65,6 +65,6 @@ By apologizing quickly and transparently while offering a goodwill gesture, Pixe
 | Name / Team            | Role                                 |
 |-------------------------|--------------------------------------|
 | Pixelated Games Team    | Game Design & Marketing Team         |
-| Mohammad Aminul Islam   | Marketing Team & Strategy Support & Author |
+| Mohammad Aminul Islam   | Marketing Team & Strategy - Support & Author |
 
 
