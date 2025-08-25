@@ -33,6 +33,9 @@ Raise the **average monthly purchase conversion rate from 5% to 7%** within six 
 - **Relevant:** Higher conversions directly support 30% growth goal.
 - **Time-bound:** Must be achieved by **December 31** (six months post-launch).
 
+### You can also open the full product line Email marketing SMART goals **Google Doc**:   
+***[Open Google Doc](https://docs.google.com/document/d/1Kv9lYnplGsFUFFji96TazD0j6qfKFbSeqRQngusjxF4/edit?usp=drive_link)*** 
+
 ## Conclusion
 By rewriting the campaign objectives into SMART goals, the Feels Like Home marketing team has:
 
@@ -42,8 +45,9 @@ By rewriting the campaign objectives into SMART goals, the Feels Like Home marke
 
 Together, these SMART goals provide a structured roadmap to **maximize subscriber engagement, boost conversions, and drive sustainable growth.**
 
+
 ## Credits  
 
-**Prepared by:** Mohammad Aminul Islam *(Strategy & Planning, Author)*  
-**With support from:** Feels Like Home Marketing Team *(Campaign Collaboration)*
-
+**Prepared for:** *Feels Like Home Marketing Team*  
+**Prepared by:** Mohammad Aminul Islam *(Digital Marketing Analyst)*  
+**Date:** August 25, 2025  
