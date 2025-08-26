@@ -14,7 +14,7 @@ To create a compelling welcome series that:
 
 ## Description  
 
-### Step 2 — Welcome Email (Subject Line)  
+### Step 2 - Welcome Email (Subject Line)  
 **Subject:** Welcome! Enjoy 10% off your first order  
 - Clear, concise, and directly aligned with the discount offer.  
 - Under 50 characters, ensuring readability on mobile devices.  
@@ -24,9 +24,9 @@ To create a compelling welcome series that:
 
 ---
 
-### Step 3 — Newsletter (Body Text)  
+### Step 3 - Newsletter (Body Text)  
 **Body Copy:**  
-Meet For All—the collection that brings our signature style to your home at an affordable price. You get the same quality craftsmanship our pieces are known for, now designed to fit your budget. Create a classic look that lasts, without compromising on materials. Explore versatile pieces for every room, from dining to lounge. Enjoy tips, inspiration, and exclusive perks as a subscriber. You’ll save on what you love and feel great about every purchase.  
+Meet For All-the collection that brings our signature style to your home at an affordable price. You get the same quality craftsmanship our pieces are known for, now designed to fit your budget. Create a classic look that lasts, without compromising on materials. Explore versatile pieces for every room, from dining to lounge. Enjoy tips, inspiration, and exclusive perks as a subscriber. You’ll save on what you love and feel great about every purchase.  
 
 - Highlights **craftsmanship, affordability, classic style**.  
 - Conversational, benefits-driven tone in under 90 words.  
@@ -37,7 +37,7 @@ Meet For All—the collection that brings our signature style to your home at an
 
 ---
 
-### Step 4 — Promotional Email (CTA)  
+### Step 4 - Promotional Email (CTA)  
 **CTA Button:** Use WELCOME10 at checkout  
 - Action-oriented, specific, and under five words.  
 - Reinforces the discount incentive.  
