@@ -1,6 +1,4 @@
-# Welcome Email Series for *For All* Furniture Launch  
-
-## Project Title  
+# Project Title  
 **Designing a 3-Part Welcome Email Campaign for New Subscribers**  
 
 ---
