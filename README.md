@@ -25,7 +25,6 @@ The above copyright notice and this permission notice shall be included in all c
 
 [Google Certificate on Coursera](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~W7N316Z5PPW0/CERTIFICATE_LANDING_PAGE~W7N316Z5PPW0.jpeg)
 
-
 ![From Likes to Leads: Interact with Customers Online - Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DY8AZPSZ2IFX/CERTIFICATE_LANDING_PAGE~DY8AZPSZ2IFX.jpeg) 
 
 
