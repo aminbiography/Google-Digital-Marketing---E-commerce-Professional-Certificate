@@ -82,6 +82,3 @@ Tracked and analyzed campaign KPIs:
 
 ---
 
-
-✅ This summary acts as both my **portfolio showcase** and **interview cheat sheet**.  
-
