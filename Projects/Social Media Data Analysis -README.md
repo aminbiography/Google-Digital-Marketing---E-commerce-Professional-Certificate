@@ -17,3 +17,10 @@ This project analyzes the performance of two social media posts to assess what f
 ## Conclusion
 This analysis highlights the critical role that content style, visuals, hashtags, and timing play in social media performance. Engagement is driven more by how the audience connects with a post than by how many people see it. These insights will guide a more strategic, engagement-focused approach to future social media campaigns.
 
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
