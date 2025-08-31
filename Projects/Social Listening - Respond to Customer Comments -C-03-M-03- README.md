@@ -22,3 +22,13 @@ This project involves crafting thoughtful and appropriate responses to different
 ## Conclusion
 
 Responding to customer feedback with care and clarity strengthens trust and builds brand loyalty. Positive comments should be acknowledged with gratitude, questions should be answered with clarity and helpful resources, and negative feedback should be addressed with empathy and solutions. Great Grounds’ responses demonstrate a commitment to quality service and customer satisfaction across all types of interactions.
+
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
+- **Prepared For**: Great Grounds Coffee Marketing Team  
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.
+
