@@ -84,3 +84,13 @@ This project demonstrates the ability to create branded marketing emails in HubS
 Here’s a preview of the completed email design:  
 
 ![Odos Eyewear Welcome Email](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/aead2310c224296c753e036bc06e91f8c8fa02b8/bar-graph-chart-image/Designing%20a%20Welcome%20Email%20for%20Odos%20Eyewear%20in%20HubSpot.jpg)
+
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
+- **Prepared For**: Odos Eyewear Marketing Team  
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
+
