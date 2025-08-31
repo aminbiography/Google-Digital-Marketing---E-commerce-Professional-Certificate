@@ -82,35 +82,27 @@ By the end of Q4, **increase annual revenue by 10% over 2020**.
 
 ------------------------------------------------------------------------
 
+# Baba’s Restaurant Goals for Q4
+
+## Business Goal
+By the end of Q4, **increase annual revenue by 10% over 2020**.
+
+## Marketing Goals
+- Increase the combined **CVR** from all marketing channels by **2 percentage points** above Q3.
+- Increase the combined **CTR** from all marketing channels by **5 percentage points** above Q3.
+
 ## Performance Goals Table
 
-  ----------------------------------------------------------------------------
-  Media Channel KPI       Industry          Q3 Performance Q4 Performance Goal
-                          Benchmark                        
-  ------------- --------- ----------------- -------------- -------------------
-  **Email**     CVR\*     8.3%              7.5%           Increase CVR to
-                                                           **9%** (exceed
-                                                           industry & Q3)
-
-                CTR\*\*   2%                1.5%           Increase CTR to
-                                                           **2.5%** (above
-                                                           industry & Q3)
-
-  **Social      CVR       4%                3.3%           Increase CVR to
-  Media**                                                  **4.5%** (above
-                                                           benchmark & Q3)
-
-                CTR       1.1%              1.0%           Increase CTR to
-                                                           **1.5%** (above
-                                                           benchmark & Q3)
-  ----------------------------------------------------------------------------
-
-------------------------------------------------------------------------
+| Media Channel | KPI | Industry Benchmark | Q3 Performance | Q4 Performance Goal |
+|---------------|-----|--------------------|----------------|----------------------|
+| Email         | CVR | 8.3%              | 7.5%           | Increase CVR to **9%** (exceeds Q3 & benchmark) |
+|               | CTR | 2%                | 1.5%           | Increase CTR to **2.5%** (above Q3 & benchmark) |
+| Social Media  | CVR | 4%                | 3.3%           | Increase CVR to **4.5%** (above Q3 & benchmark) |
+|               | CTR | 1.1%              | 1.0%           | Increase CTR to **1.5%** (above Q3 & benchmark) |
 
 ## Notes
-
--   *CVR = Conversion Rate*\
--   **CTR = Click-Through Rate**
+- *CVR = Conversion Rate*  
+- **CTR = Click-Through Rate**
 
 ------------------------------------------------------------------------
 
