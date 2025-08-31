@@ -46,7 +46,11 @@ Segmentation ensures each subscriber receives the **most relevant content**:
 
 This tailored approach will help build stronger brand loyalty and drive sales.
 
-## Credit
-Prepared for: **Feels Like Home - For All**  
-Prepared by: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
-Date: **August 25, 2025**
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
+- **Prepared For**: Feels Like Home Marketing Team  
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
