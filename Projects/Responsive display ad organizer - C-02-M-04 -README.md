@@ -40,3 +40,13 @@ The ad creatives for Great Grounds successfully communicate quality and value th
 - **Image Enhancement**: Use tighter crops and lighting adjustments to better showcase the product and experience.
 
 This documentation can serve as a reference for launching and iterating on digital ad campaigns that reflect the brand's premium, authentic coffee experience.
+
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
+- **Prepared For**: Great Grounds Coffee Marketing Team  
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.
+
