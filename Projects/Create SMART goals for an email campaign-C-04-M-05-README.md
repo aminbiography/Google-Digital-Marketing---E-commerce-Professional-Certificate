@@ -46,8 +46,10 @@ By rewriting the campaign objectives into SMART goals, the Feels Like Home marke
 Together, these SMART goals provide a structured roadmap to **maximize subscriber engagement, boost conversions, and drive sustainable growth.**
 
 
-## Credits  
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
+- **Prepared For**: Feels Like Home Marketing Team  
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
 
-**Prepared for:** *Feels Like Home Marketing Team*  
-**Prepared by:** Mohammad Aminul Islam *(Digital Marketing & E-commerce Analyst)*  
-**Date:** August 25, 2025  
