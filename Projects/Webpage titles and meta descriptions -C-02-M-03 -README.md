@@ -61,3 +61,12 @@ Future opportunities include:
 - Continuing metadata optimization across all product categories
 - Adding schema markup for products and recipes
 - Monitoring CTR and rankings through Google Search Console for ongoing improvements
+
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
+- **Prepared For**: Founders’ Dairy Marketing Team  
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
