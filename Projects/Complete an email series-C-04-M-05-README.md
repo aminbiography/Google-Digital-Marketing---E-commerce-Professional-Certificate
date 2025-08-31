@@ -63,7 +63,10 @@ View the Google Docs presentation as reference here: [Google Docs Link](https://
 
 ---
 
-## Credits  
-Prepared for: **Feels Like Home Marketing Team**  
-Prepared by: **Mohammad Aminul Islam (Digital Marketing & E-commerce Analyst)**  
-Date: **August 26, 2025**  
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
+- **Prepared For**: Feels Like Home Marketing Team  
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
+
