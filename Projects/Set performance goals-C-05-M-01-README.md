@@ -40,6 +40,11 @@ To support this expansion, targeted **email and social media campaigns** will be
 
 ---
 
+## Live Presentation  
+View the Google Docs presentation as reference here: [Google Docs Link](https://docs.google.com/document/d/1P9ypDmfSeIpfSuwxsMYXeFtGv4-aBF-cjjpMlTnUCxs/edit?usp=drive_link)  
+
+---
+
 ## Conclusion  
 The Q4 performance goals are **specific, measurable, attainable, relevant, and time-bound (SMART)**. They ensure:  
 - Improved **CTR** for greater engagement.  
