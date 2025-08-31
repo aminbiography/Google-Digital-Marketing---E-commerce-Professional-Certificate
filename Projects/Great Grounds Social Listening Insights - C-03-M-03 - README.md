@@ -64,3 +64,11 @@ For questions or collaboration, feel free to:
 
 Special thanks to the **Great Grounds marketing** and **customer service teams** for providing valuable customer insights.
 
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
+- **Prepared For**: Great Grounds Coffee Marketing Team  
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.
