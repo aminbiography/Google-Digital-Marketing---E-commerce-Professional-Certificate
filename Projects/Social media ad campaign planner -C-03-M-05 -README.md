@@ -53,7 +53,11 @@ We selected platforms based on user behavior and the campaign’s conversion goa
 
 This campaign is tailored for high engagement and conversion. Platform-specific formats, audience targeting, and strong creatives are designed to deliver results while maintaining a unified brand message.
 
-**Prepared by:** Mohammad Aminul Islam  
-**Role:** Digital Marketer for Brown’s Bedding and More  
-**Campaign Duration:** June 5 – June 19  
-**Budget:** $600 across 5 platforms
+---
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
+- **Prepared For**: Brown’s Bedding and More Marketing Team  
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.
