@@ -58,7 +58,7 @@ Together, these emails set the tone for a positive customer relationship and dri
 
 ---
 
-## Live Presentation  
+## Live Presentation Reference  
 View the Google Docs presentation as reference here: [Google Docs Link](https://docs.google.com/document/d/16TVQGdGZTcIRHVfdNKOcyI0yQ0nqS3kBC68oEhHqsRA/edit?usp=sharing)  
 
 ---
