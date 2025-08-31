@@ -65,7 +65,7 @@ Baba's Q3 performance.
 
 ------------------------------------------------------------------------
 
-# 📊 Baba's Restaurant Goals for Q4
+# Baba's Restaurant Goals for Q4
 
 ## Business Goal
 
