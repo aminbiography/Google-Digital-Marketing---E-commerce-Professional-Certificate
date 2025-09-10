@@ -54,6 +54,15 @@ Explorations in GA4 were used to detect anomalies in **Active Users** and **Purc
 ### Conclusion  
 There is **no consistent correlation** between developer events and user activity. While a spike in users occurred near **I/O Connect India**, it did not translate into increased purchases. Other events showed no anomalies.
 
-### Credit  
-Prepared by: *Mohammad Aminul Islam*  
-Based on data exploration in **Google Analytics 4 Demo Account**
+### Supporting Document  
+***[Directory of past events](hhttps://developers.google.com/events)***
+***[Google Analytics 4 property: Google Merchandise Store (web data)](https://support.google.com/analytics/answer/6367342#access&zippy=%2Cin-this-article)***
+
+### References Live 
+***[Open Google Doc](https://docs.google.com/document/d/1Ss_gMjzcsEOAdteSbHZQ5H2s1QG_YLc3CldrmzJ26mU/edit?usp=sharing)***
+
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.
