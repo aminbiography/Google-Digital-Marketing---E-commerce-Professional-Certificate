@@ -56,6 +56,7 @@ There is **no consistent correlation** between developer events and user activit
 
 ### Supporting Document  
 ***[Directory of past events](hhttps://developers.google.com/events)***
+
 ***[Google Analytics 4 property: Google Merchandise Store (web data)](https://support.google.com/analytics/answer/6367342#access&zippy=%2Cin-this-article)***
 
 ### References Live 
