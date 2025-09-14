@@ -1,5 +1,4 @@
-# Project Title  
-**Review and Apply Google Ads Recommendations**  
+# Project Title: Review and Apply Google Ads Recommendations 
 
 ---
 
