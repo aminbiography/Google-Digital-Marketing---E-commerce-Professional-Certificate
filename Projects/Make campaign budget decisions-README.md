@@ -3,13 +3,17 @@ ROI Analysis for Multi-Channel E-Commerce Ad Campaign
 
 ---
 
-## **Project Scenario**  
-I am a Digital Marketing & E-commerce Analyst who just completed work on a multi-channel advertising campaign for an e-commerce business. The campaign included search ads, display ads, social ads, and shopping ads. As part of the project debriefing, I was responsible for calculating and presenting the campaign’s ROI to help guide future advertising budget decisions.  
+## Executive Summary  
+Social and Shopping ads drove the highest ROI, while Search and Display underperformed. Reallocating ~15% of budget and optimizing landing pages can increase overall profitability by **10–15%**.  
 
 ---
 
-## **Project Objective**  
-My objectives in this project were to:  
+## **Project Scenario**  
+I am a Digital Marketing & E-commerce Analyst who just completed work on a multi-channel advertising campaign for an e-commerce business. The campaign included search ads, display ads, social ads, and shopping ads. As part of the project debriefing, I was responsible for calculating and presenting the campaign’s ROI to help guide future advertising budget decisions. 
+
+---
+
+## Project Objectives  
 1. Calculate and analyze **ROI using ROAS and LTV** for each campaign channel.  
 2. Evaluate **LTV to CAC ratios** and **customer purchase percentages**.  
 3. Provide **data-driven recommendations** for future budget allocation.  
@@ -17,44 +21,64 @@ My objectives in this project were to:
 
 ---
 
-## **Project Description**  
-I carried out the analysis using the following steps:  
+## Key Performance Metrics  
 
-- **ROAS (Return on Ad Spend):** Measured as *Revenue ÷ Ad spend*. Social ads (ROAS 4.67) and Shopping ads (ROAS 3.55) were the strongest performers. Search ads (ROAS 1.71) and Display ads (ROAS 1.76) underperformed.  
+| Channel      | ROAS  | AOV ($) | LTV ($) | LTV:CAC | % New Customers |  
+|--------------|-------|---------|---------|---------|-----------------|  
+| **Social**   | 4.67  | 88.20   | 176.40  | **4.68 ✅** | 13.51% |  
+| **Shopping** | 3.55  | 79.21   | 158.42  | **3.66 ✅** | **23.16%** |  
+| **Search**   | 1.71  | **128.69** | **193.04** | 1.72 ❌ | 18.75% |  
+| **Display**  | 1.76  | 27.60   | 55.20   | 1.78 ❌ | 17.50% |  
 
-- **AOV (Average Order Value):** Measured as *Revenue ÷ Orders*. Search ads had the highest AOV ($128.69), while Display ads had the lowest ($27.60).  
-
-- **LTV (Customer Lifetime Value):** Calculated as *AOV × Purchase frequency*. Search ads ($193.04) had the highest LTV, while Display ads ($55.20) had the lowest.  
-
-- **LTV to CAC Ratios:** Calculated as *LTV ÷ CAC*. Social ads (4.68) and Shopping ads (3.66) exceeded the profitability benchmark of 3. Search (1.72) and Display (1.78) fell below 2, indicating inefficiency.  
-
-- **Percentage of New Customers Making Purchases:** Social ads had the lowest percentage (13.51%), while Shopping ads had the highest (23.16%).  
-
-- **Budget Recommendations:**  
-  - Reallocate 10–15% (~$25K) of budget from Search and Display into Social and Shopping.  
-  - Pause or reduce investment in channels with LTV:CAC <2 until optimized.  
-  - Scale profitable growth by increasing spend on Social and Shopping ads.  
-
-- **Landing Page Customization Recommendations:**  
-  - Focus on **Social ads** (13.5%) and **Display ads** (17.5%) to improve conversion rates.  
-  - Test: tighter message alignment, simplified purchase flow, trust signals, personalized offers, and mobile performance.  
+✅ **Benchmark:** LTV:CAC ≥ 3 indicates strong profitability.  
 
 ---
 
-### Supporting Document  
-***[Open Google Doc](https://docs.google.com/document/d/1wP0_18egcI3OyLKvYz7KZQ6MZf4bM_X1D_eZqNjtNSQ/edit?usp=drive_link)***
-***[Open Google Doc](https://docs.google.com/spreadsheets/d/1Tfyb1eP4J66fXbFu94dZgqOjxk2_4aq7Rk3czZJxPqg/edit?usp=drive_link)***
+## Channel Performance (ROAS)  
+
+Social ██████████ 4.67
+Shopping ████████ 3.55
+Search ████ 1.71
+Display ████ 1.76
+
 
 ---
 
-## **Project Conclusion**  
-The analysis showed that Social and Shopping ads are the most profitable channels, while Search and Display require optimization. By reallocating budget and improving landing pages, I can enhance ROI and drive sustainable growth. These findings will directly influence how future budgets are spent and how campaigns are optimized for efficiency and profitability.  
+## Customer Insights  
+- Shopping ads attract the **highest % of new customers** (23.16%).  
+- Social ads drive strong ROI but **low new customer % (13.51%)**.  
+- Search ads generate high AOV but fail efficiency benchmarks.  
+
+---
+
+## Recommendations  
+1. **Reallocate 10–15% (~$25K) from Search & Display → Social & Shopping.**  
+2. **Strategically deprioritize** channels with LTV:CAC < 2 until optimized.  
+3. **Optimize landing pages** for Social (13.5%) & Display (17.5%) to improve conversion.  
+   - Message alignment  
+   - Simplified purchase flow  
+   - Trust signals  
+   - Personalized offers  
+   - Mobile UX improvements  
+4. **Test cross-channel strategies** (e.g., retarget Search visitors via Social).  
+
+---
+
+## Conclusion  
+By reallocating budgets and improving conversion funnels, Social and Shopping ads can **scale profitably**, while Search and Display require **testing and optimization**. These insights will directly influence **future ad spend efficiency** and **sustainable growth**.  
+
+---
+
+## Supporting Documents  
+- [Google Doc Report](https://docs.google.com/document/d/1wP0_18egcI3OyLKvYz7KZQ6MZf4bM_X1D_eZqNjtNSQ/edit?usp=drive_link)  
+- [Google Sheets Data](https://docs.google.com/spreadsheets/d/1Tfyb1eP4J66fXbFu94dZgqOjxk2_4aq7Rk3czZJxPqg/edit?usp=drive_link)  
 
 ---
 
 ## Project Credit  
 - **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
-- **Prepared For**: Feels Like Home Marketing Team  
 - **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
 - **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
 - **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
+
+---
