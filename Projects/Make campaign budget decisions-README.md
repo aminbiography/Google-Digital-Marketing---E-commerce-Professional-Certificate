@@ -37,10 +37,12 @@ I am a Digital Marketing & E-commerce Analyst who just completed work on a multi
 ## Channel Performance (ROAS)  
 
 Social ██████████ 4.67
-Shopping ████████ 3.55
-Search ████ 1.71
-Display ████ 1.76
 
+Shopping ████████ 3.55
+
+Search ████ 1.71
+
+Display ████ 1.76
 
 ---
 
