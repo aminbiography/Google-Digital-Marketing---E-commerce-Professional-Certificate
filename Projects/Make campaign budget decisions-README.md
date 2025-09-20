@@ -41,9 +41,20 @@ I carried out the analysis using the following steps:
 
 ---
 
+### Supporting Document  
+***[Open Google Doc](https://docs.google.com/document/d/1wP0_18egcI3OyLKvYz7KZQ6MZf4bM_X1D_eZqNjtNSQ/edit?usp=drive_link)***
+***[Open Google Doc](https://docs.google.com/spreadsheets/d/1Tfyb1eP4J66fXbFu94dZgqOjxk2_4aq7Rk3czZJxPqg/edit?usp=drive_link)***
+
+---
+
 ## **Project Conclusion**  
 The analysis showed that Social and Shopping ads are the most profitable channels, while Search and Display require optimization. By reallocating budget and improving landing pages, I can enhance ROI and drive sustainable growth. These findings will directly influence how future budgets are spent and how campaigns are optimized for efficiency and profitability.  
 
 ---
 
-## **Project Credit** 
+## Project Credit  
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)  
+- **Prepared For**: Feels Like Home Marketing Team  
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
