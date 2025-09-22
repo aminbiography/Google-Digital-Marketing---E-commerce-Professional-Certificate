@@ -27,7 +27,7 @@ Stay Hotel, a global hotel chain, is aiming to increase conversions from its Goo
 - **Users per variant:** 3,000  
 - **Primary metric:** Conversion rate  
 - **Current conversion rate:** 2%  
-- **Expected conversion rate:** 7% (a five percentage point increase)  
+- **Expected conversion rate:** 7% (increase of 5 percentage points, raising conversions from 2% to 7%)  
 - **Confidence level:** +95% (Minimum 95%)  
 
 ### Hypothesis  
@@ -52,8 +52,9 @@ Reserve your stay hassle-free with our online reservation system. We offer great
 
 ---
 
-## **Conclusion:**  
-This A/B testing plan provides Stay Hotel with a structured experiment to validate the effectiveness of a deals-focused headline. By comparing the original headline to a revised promotion-driven version, the campaign aims to boost conversions from 2% to 7%. If successful, this will demonstrate that aligning ad messaging with customer behavior insights (deal-seeking) can significantly improve campaign performance.  
+## **Conclusion**
+
+This A/B testing plan provides Stay Hotel with a structured experiment to validate the effectiveness of a deals-focused headline. By comparing the original headline to a revised promotion-driven version, the campaign aims to boost conversions from 2% to 7%. If successful, this will demonstrate that aligning ad messaging with customer behavior insights (deal-seeking) can significantly improve campaign performance. **Results will be reviewed after 30 days to determine whether the revised headline should be adopted across campaigns.**
 
 ---
 
