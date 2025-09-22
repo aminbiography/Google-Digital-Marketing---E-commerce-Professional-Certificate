@@ -1,4 +1,4 @@
-# **Project Title:**  A/B Testing Plan: Updated Headline for Google Ads Campaign  
+# **Project Title:**  A/B Testing Plan: For Google Ads Campaign  
 
 ---
 
