@@ -48,7 +48,7 @@ Reserve your stay hassle-free with our online reservation system. We offer great
 ---
 
 ## **Supporting Documents:**  
-[Google Docs Link](https://docs.google.com/document/d/1krLoY_trDmtT3g7vsBwrHnmVNXZdeOjIX0oWVtRRXu8/edit?usp=drive_link)  
+[Google Docs Link](https://docs.google.com/document/d/1DZGWLNNM7Nj8DtiipK2cSJoBJ6CNjcn8QG7Z4cu--Ks/edit?usp=drive_link)  
 
 ---
 
