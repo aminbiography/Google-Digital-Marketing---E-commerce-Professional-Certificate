@@ -18,7 +18,7 @@ $$
 ROI = \frac{200,000 - 55,000}{55,000} = 2.6
 $$
 
-ROI > 1 = profitable; ROI = 1 = break-even.
+**ROI > 1 = profitable; ROI = 1 = break-even.**
 
 * **Formula (Method 2 using LTV):**
   ROI can also be tracked by **Customer Lifetime Value (LTV)** trends. An **increasing LTV** signals improved ROI.
@@ -79,7 +79,7 @@ $$
 LTV:CAC\ Ratio = \frac{LTV}{CAC}
 $$
 
-≥2 good, ≈3 ideal, <2 inefficient.
+**≥2 good, ≈3 ideal, <2 inefficient.**
 
 ---
 
@@ -99,7 +99,7 @@ $$
 CAC = \frac{30,000}{600} = 50
 $$
 
-$50 per new customer.
+**$50 per new customer.**
 
 ---
 
@@ -119,7 +119,7 @@ $$
 Lifetime\ ROAS = \frac{1,000 \times 500}{100,000} = 5
 $$
 
-$5 lifetime revenue per $1 spent.
+**$5 lifetime revenue per $1 spent.**
 
 ---
 
@@ -148,7 +148,7 @@ $5 lifetime revenue per $1 spent.
 * **Micro-conversion:** Early actions (email signup, chatbot).
 * **Macro-conversion:** Final action (purchase).
 
-Example: Email sign-ups ↑ 21% (micro), but purchases stayed flat (macro).
+**Example: Email sign-ups ↑ 21% (micro), but purchases stayed flat (macro).**
 
 ---
 
