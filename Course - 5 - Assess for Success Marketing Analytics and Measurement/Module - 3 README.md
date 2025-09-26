@@ -52,7 +52,10 @@
 
 ## 4. What is CAC and how is it calculated?
 - **Definition:** Customer Acquisition Cost (CAC) is the average cost of acquiring one paying customer.  
-- **Formula:**  
+- **Formula:**
+
+  CAC=NumberofNewCustomersAcquiredTotalMarketing+SalesCosts​
+   
   ```
   CAC = (Total Marketing + Sales Costs) / Number of New Customers Acquired
   ```  
