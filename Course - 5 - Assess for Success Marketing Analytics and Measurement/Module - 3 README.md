@@ -1,4 +1,4 @@
-# Marketing Analytics & Testing
+# Marketing Analytics & Testing 
 
 ---
 
@@ -41,42 +41,29 @@
   * A goal of 5:1 ROAS means $5 revenue per $1 spent.
   * Per-channel goals could be **3:1 for search ads** and **4:1 for display ads**.
 
-* **Best practices:**
-
-  * Evaluate after **50 conversions** (to reduce noise).
-  * Split ROAS targets by **product groups** (e.g., formal wear vs. casual wear).
-  * Adjust **bidding strategies** if ROAS is below target.
-
 ---
 
 ### **3. What is LTV and how is it used in ROI measurement?**
 
 * **Definition:** Customer Lifetime Value (LTV) is the **average revenue per customer** over a period.
 
-* **Formula (Basic):**
+* **Formula (Method 1):**
 
   $$
   LTV = \frac{Total\ Revenue}{Number\ of\ Customers}
   $$
 
-  *Alternative form:*
+* **Formula (Method 2):**
 
   $$
   LTV = Average\ Order\ Value \times Purchase\ Frequency
   $$
 
-* **Types of LTV:**
-
-  * **Total LTV:** Past → Present.
-  * **Predicted LTV (pLTV):** Future-oriented estimate.
-
-* **Key metric:**
+* **Key ratio (LTV:CAC):**
 
   $$
   LTV:CAC\ Ratio = \frac{LTV}{CAC}
   $$
-
-  * Benchmark: ≥2 is good, ≈3 is ideal, <2 suggests high acquisition costs.
 
 ---
 
@@ -89,8 +76,6 @@
   $$
   CAC = \frac{Total\ Marketing\ +\ Sales\ Costs}{Number\ of\ New\ Customers\ Acquired}
   $$
-
-* **Use case:** Often paired with LTV to calculate the **LTV:CAC ratio**.
 
 ---
 
