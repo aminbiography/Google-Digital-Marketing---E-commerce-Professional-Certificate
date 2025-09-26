@@ -148,7 +148,7 @@ Example: Email sign-ups ↑ 21% (micro) but purchases flat (macro).
 
 ---
 
-### **10. Case Study Snapshot — Good Boy Studios**
+### **10. Case Study Snapshot - Good Boy Studios**
 
 * **Problem:** Drop-offs at mouth marker setup & recording stage.
 * **Solution:**
