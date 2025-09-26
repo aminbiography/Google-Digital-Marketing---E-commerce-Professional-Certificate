@@ -56,7 +56,13 @@
 * **Formula (Basic):**
 
   $$
-  LTV = Average\ Order\ Value\ (AOV) \times Purchase\ Frequency
+  LTV = \frac{Total\ Revenue}{Number\ of\ Customers}
+  $$
+
+  *Alternative form:*
+
+  $$
+  LTV = Average\ Order\ Value \times Purchase\ Frequency
   $$
 
 * **Types of LTV:**
@@ -64,14 +70,12 @@
   * **Total LTV:** Past → Present.
   * **Predicted LTV (pLTV):** Future-oriented estimate.
 
-* **Best practice:**
-
-  * Use **total LTV** for completed campaigns.
-  * Use **pLTV** for ongoing campaigns.
-
 * **Key metric:**
 
-  * **LTV:CAC ratio = LTV ÷ CAC**.
+  $$
+  LTV:CAC\ Ratio = \frac{LTV}{CAC}
+  $$
+
   * Benchmark: ≥2 is good, ≈3 is ideal, <2 suggests high acquisition costs.
 
 ---
@@ -83,7 +87,7 @@
 * **Formula:**
 
   $$
-  CAC = \frac{Total\ Marketing + Sales\ Costs}{Number\ of\ New\ Customers\ Acquired}
+  CAC = \frac{Total\ Marketing\ +\ Sales\ Costs}{Number\ of\ New\ Customers\ Acquired}
   $$
 
 * **Use case:** Often paired with LTV to calculate the **LTV:CAC ratio**.
@@ -93,6 +97,7 @@
 ### **5. What is Lifetime ROAS and how is it measured?**
 
 * **Definition:** Combines ROAS with LTV to measure long-term ad performance.
+
 * **Formula:**
 
   $$
@@ -174,5 +179,3 @@
   7. Run, measure, and analyze results.
 
 ---
-
-Would you like me to now create that **one-page formula cheat sheet** (just the equations + quick notes + examples) so you can keep it handy before interviews?
