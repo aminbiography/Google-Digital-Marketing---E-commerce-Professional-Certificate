@@ -1,4 +1,4 @@
-# Marketing Analytics & Testing — Interview Q&A
+# Marketing Analytics & Testing 
 
 ### **1. What is ROI in marketing and how is it calculated?**
 
