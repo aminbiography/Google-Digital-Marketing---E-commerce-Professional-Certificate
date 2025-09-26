@@ -1,28 +1,30 @@
-# Marketing Analytics & Testing     
+# Marketing Analytics & Testing
 
 ### **1. What is ROI in marketing and how is it calculated?**  
 - **Definition:** Return on Investment (ROI) measures the profit generated relative to the cost of a marketing campaign.  
 - **Formula (Method 1):**  
-  ```
-  ROI = (Sales Growth – Marketing Cost) ÷ Marketing Cost
-  ```  
-  **Example:** Sales growth = $200,000, Marketing cost = $55,000 →  
-  ROI = (200,000 – 55,000) ÷ 55,000 = **2.6**.  
-  - ROI > 1 = profitable; ROI = 1 = break-even.  
+```
+ROI = (Sales Growth – Marketing Cost) / Marketing Cost
+```
+**Example:** Sales growth = $200,000, Marketing cost = $55,000 →  
+ROI = (200,000 – 55,000) ÷ 55,000 = **2.6**.  
+- ROI > 1 = profitable; ROI = 1 = break-even.  
+
 - **Formula (Method 2 using LTV):**  
-  ROI can also be measured by monitoring **Customer Lifetime Value (LTV)** trends over time.  
-  An **increasing LTV** indicates improved ROI.  
+ROI can also be measured by monitoring **Customer Lifetime Value (LTV)** trends over time.  
+An **increasing LTV** indicates improved ROI.  
 
 ---
 
 ### **2. What is ROAS and how is it calculated?**  
 - **Definition:** Return on Ad Spend (ROAS) measures the revenue earned for every dollar spent on advertising.  
 - **Formula:**  
-  ```
-  ROAS = Revenue ÷ Ad Spend
-  ```  
+```
+ROAS = Revenue / Ad Spend
+```
 - **Example:** A goal of 5:1 ROAS means $5 revenue per $1 spent.  
   Per-channel goals could be **3:1 for search ads** and **4:1 for display ads**.  
+
 - **Best practices:**  
   - Evaluate after **50 conversions** (to reduce noise).  
   - Split ROAS targets by **product groups** (e.g., formal wear vs. casual wear).  
@@ -33,17 +35,21 @@
 ### **3. What is LTV and how is it used in ROI measurement?**  
 - **Definition:** Customer Lifetime Value (LTV) is the **average revenue per customer** over a time period.  
 - **Formula (Basic):**  
-  ```
-  LTV = Average Order Value (AOV) × Purchase Frequency
-  ```  
+```
+LTV = Average Order Value (AOV) × Purchase Frequency
+```
 - **Types of LTV:**  
   - **Total LTV:** Past → Present.  
   - **Predicted LTV (pLTV):** Future-oriented estimate.  
+
 - **Best practice:**  
   - Use **total LTV** for completed campaigns.  
   - Use **pLTV** for ongoing campaigns.  
+
 - **Key metric:**  
-  - **LTV:CAC ratio = LTV ÷ CAC**.  
+```
+LTV:CAC ratio = LTV ÷ CAC
+```
   - Benchmark: ≥2 is good, ≈3 is ideal, <2 suggests high acquisition costs.  
 
 ---
@@ -51,9 +57,10 @@
 ### **4. What is CAC and how is it calculated?**  
 - **Definition:** Customer Acquisition Cost (CAC) is the average cost of acquiring one paying customer.  
 - **Formula:**  
-  ```
-  CAC = (Total Marketing + Sales Costs) ÷ Number of New Customers Acquired
-  ```  
+```
+CAC = Total Marketing + Sales Costs / Number of New Customers Acquired
+```
+
 - **Use case:** Often paired with LTV to calculate **LTV:CAC ratio**.  
 
 ---
@@ -61,9 +68,9 @@
 ### **5. What is Lifetime ROAS and how is it measured?**  
 - **Definition:** Combines ROAS with LTV to measure long-term ad performance.  
 - **Formula:**  
-  ```
-  Lifetime ROAS = (Number of New Customers × Total LTV) ÷ Ad Spend
-  ```  
+```
+Lifetime ROAS = (Number of New Customers × Total LTV) / Ad Spend
+```
 
 ---
 
@@ -95,10 +102,11 @@
 ### **8. What are micro-conversions and macro-conversions?**  
 - **Micro-conversion:** Small steps toward purchase (e.g., email signup, chatbot interaction).  
 - **Macro-conversion:** Final purchase or completed transaction.  
-- **Example from case study:**  
-  - **Email sign-ups** ↑ 21% (micro) but **purchases stayed flat** (macro).  
-  - **Chatbot** hit both micro and macro targets.  
-  - **Blog visits** missed both.  
+
+**Example from case study:**  
+- **Email sign-ups** ↑ 21% (micro) but **purchases stayed flat** (macro).  
+- **Chatbot** hit both micro and macro targets.  
+- **Blog visits** missed both.  
 
 ---
 
@@ -110,6 +118,7 @@
     - Variant A (“pinch to zoom”) → +44% completion.  
     - Variant B (“mouth closed”) → +25% completion.  
   - Added a **RECORDING SONG indicator** → boosted recording completion from **62% to 67%** (70% for iOS).  
+
 - **Result:** Higher completion rates, more conversions to premium service.  
 
 ---
