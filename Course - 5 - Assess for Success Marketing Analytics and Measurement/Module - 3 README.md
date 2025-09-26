@@ -1,18 +1,23 @@
-# Marketing Analytics & Testing 
+# Marketing Analytics & Testing
 
 ### **1. What is ROI in marketing and how is it calculated?**
 
 * **Definition:** Return on Investment (ROI) measures the profit generated relative to the cost of a marketing campaign.
+
 * **Formula (Method 1):**
 
   $$
-  ROI = \frac{(Sales Growth – Marketing Cost)}{Marketing Cost}
+  ROI = \frac{(Sales\ Growth - Marketing\ Cost)}{Marketing\ Cost}
   $$
 
   **Example:** Sales growth = $200,000, Marketing cost = $55,000 →
-  ROI = (200,000 – 55,000) ÷ 55,000 = **2.6**.
+
+  $$
+  ROI = \frac{200,000 - 55,000}{55,000} = 2.6
+  $$
 
   * ROI > 1 = profitable; ROI = 1 = break-even.
+
 * **Formula (Method 2 using LTV):**
   ROI can also be measured by monitoring **Customer Lifetime Value (LTV)** trends over time.
   An **increasing LTV** indicates improved ROI.
@@ -22,18 +27,15 @@
 ### **2. What is ROAS and how is it calculated?**
 
 * **Definition:** Return on Ad Spend (ROAS) measures the revenue earned for every dollar spent on advertising.
+
 * **Formula:**
 
   $$
-  ROAS = \frac{Revenue}{Ad Spend}
+  ROAS = \frac{Revenue}{Ad\ Spend}
   $$
+
 * **Example:** A goal of 5:1 ROAS means $5 revenue per $1 spent.
   Per-channel goals could be **3:1 for search ads** and **4:1 for display ads**.
-* **Best practices:**
-
-  * Evaluate after **50 conversions** (to reduce noise).
-  * Split ROAS targets by **product groups** (e.g., formal wear vs. casual wear).
-  * Adjust **bidding strategies** if ROAS is below target.
 
 ---
 
@@ -43,20 +45,8 @@
 * **Formula (Basic):**
 
   $$
-  LTV = Average Order Value (AOV) \times Purchase Frequency
+  LTV = AOV \times Purchase\ Frequency
   $$
-* **Types of LTV:**
-
-  * **Total LTV:** Past → Present.
-  * **Predicted LTV (pLTV):** Future-oriented estimate.
-* **Best practice:**
-
-  * Use **total LTV** for completed campaigns.
-  * Use **pLTV** for ongoing campaigns.
-* **Key metric:**
-
-  * **LTV:CAC ratio = LTV ÷ CAC**.
-  * Benchmark: ≥2 is good, ≈3 is ideal, <2 suggests high acquisition costs.
 
 ---
 
@@ -66,9 +56,8 @@
 * **Formula:**
 
   $$
-  CAC = \frac{Total Marketing + Sales Costs}{Number of New Customers Acquired}
+  CAC = \frac{Total\ Marketing\ +\ Sales\ Costs}{Number\ of\ New\ Customers\ Acquired}
   $$
-* **Use case:** Often paired with LTV to calculate **LTV:CAC ratio**.
 
 ---
 
@@ -78,7 +67,7 @@
 * **Formula:**
 
   $$
-  Lifetime ROAS = \frac{Number of New Customers \times Total LTV}{Ad Spend}
+  Lifetime\ ROAS = \frac{Number\ of\ New\ Customers \times Total\ LTV}{Ad\ Spend}
   $$
 
 ---
