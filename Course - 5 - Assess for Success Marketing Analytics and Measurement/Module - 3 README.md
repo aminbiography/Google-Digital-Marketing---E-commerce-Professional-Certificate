@@ -1,5 +1,7 @@
 # Marketing Analytics & Testing
 
+---
+
 ### **1. What is ROI in marketing and how is it calculated?**
 
 * **Definition:** Return on Investment (ROI) measures the profit generated relative to the cost of a marketing campaign.
@@ -34,30 +36,57 @@
   ROAS = \frac{Revenue}{Ad\ Spend}
   $$
 
-* **Example:** A goal of 5:1 ROAS means $5 revenue per $1 spent.
-  Per-channel goals could be **3:1 for search ads** and **4:1 for display ads**.
+* **Example:**
+
+  * A goal of 5:1 ROAS means $5 revenue per $1 spent.
+  * Per-channel goals could be **3:1 for search ads** and **4:1 for display ads**.
+
+* **Best practices:**
+
+  * Evaluate after **50 conversions** (to reduce noise).
+  * Split ROAS targets by **product groups** (e.g., formal wear vs. casual wear).
+  * Adjust **bidding strategies** if ROAS is below target.
 
 ---
 
 ### **3. What is LTV and how is it used in ROI measurement?**
 
-* **Definition:** Customer Lifetime Value (LTV) is the **average revenue per customer** over a time period.
+* **Definition:** Customer Lifetime Value (LTV) is the **average revenue per customer** over a period.
+
 * **Formula (Basic):**
 
   $$
-  LTV = AOV \times Purchase\ Frequency
+  LTV = Average\ Order\ Value\ (AOV) \times Purchase\ Frequency
   $$
+
+* **Types of LTV:**
+
+  * **Total LTV:** Past → Present.
+  * **Predicted LTV (pLTV):** Future-oriented estimate.
+
+* **Best practice:**
+
+  * Use **total LTV** for completed campaigns.
+  * Use **pLTV** for ongoing campaigns.
+
+* **Key metric:**
+
+  * **LTV:CAC ratio = LTV ÷ CAC**.
+  * Benchmark: ≥2 is good, ≈3 is ideal, <2 suggests high acquisition costs.
 
 ---
 
 ### **4. What is CAC and how is it calculated?**
 
 * **Definition:** Customer Acquisition Cost (CAC) is the average cost of acquiring one paying customer.
+
 * **Formula:**
 
   $$
-  CAC = \frac{Total\ Marketing\ +\ Sales\ Costs}{Number\ of\ New\ Customers\ Acquired}
+  CAC = \frac{Total\ Marketing + Sales\ Costs}{Number\ of\ New\ Customers\ Acquired}
   $$
+
+* **Use case:** Often paired with LTV to calculate the **LTV:CAC ratio**.
 
 ---
 
@@ -105,7 +134,9 @@
 ### **8. What are micro-conversions and macro-conversions?**
 
 * **Micro-conversion:** Small steps toward purchase (e.g., email signup, chatbot interaction).
+
 * **Macro-conversion:** Final purchase or completed transaction.
+
 * **Example from case study:**
 
   * **Email sign-ups** ↑ 21% (micro) but **purchases stayed flat** (macro).
@@ -144,3 +175,4 @@
 
 ---
 
+Would you like me to now create that **one-page formula cheat sheet** (just the equations + quick notes + examples) so you can keep it handy before interviews?
