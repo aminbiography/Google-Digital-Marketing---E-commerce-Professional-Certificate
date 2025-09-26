@@ -1,4 +1,4 @@
-# Marketing Analytics & Testing 
+# Marketing Analytics & Testing   
 
 ### **1. What is ROI in marketing and how is it calculated?**  
 - **Definition:** Return on Investment (ROI) measures the profit generated relative to the cost of a marketing campaign.  
