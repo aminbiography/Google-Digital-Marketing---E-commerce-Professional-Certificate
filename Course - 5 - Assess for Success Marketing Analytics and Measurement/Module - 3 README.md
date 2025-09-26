@@ -164,3 +164,86 @@
   7. Run, measure, and analyze results.
 
 ---
+
+
+
+
+
+---
+
+### **1. ROI (Return on Investment)**
+
+**Formula:**
+
+$$
+ROI = \frac{(Sales\ Growth - Marketing\ Cost)}{Marketing\ Cost}
+$$
+
+**Example:**
+
+$$
+ROI = \frac{200,000 - 55,000}{55,000} = 2.6
+$$
+
+---
+
+### **2. ROAS (Return on Ad Spend)**
+
+**Formula:**
+
+$$
+ROAS = \frac{Revenue}{Ad\ Spend}
+$$
+
+**Example:**
+A goal of **5:1** means:
+
+$$
+ROAS = \frac{5}{1} = 5
+$$
+
+---
+
+### **3. LTV (Customer Lifetime Value)**
+
+**Formula (Method 1):**
+
+$$
+LTV = \frac{Total\ Revenue}{Number\ of\ Customers}
+$$
+
+**Formula (Method 2):**
+
+$$
+LTV = Average\ Order\ Value \times Purchase\ Frequency
+$$
+
+**Key ratio (LTV:CAC):**
+
+$$
+LTV:CAC = \frac{LTV}{CAC}
+$$
+
+---
+
+### **4. CAC (Customer Acquisition Cost)**
+
+**Formula:**
+
+$$
+CAC = \frac{Total\ Marketing\ +\ Sales\ Costs}{Number\ of\ New\ Customers\ Acquired}
+$$
+
+---
+
+### **5. Lifetime ROAS**
+
+**Formula:**
+
+$$
+Lifetime\ ROAS = \frac{Number\ of\ New\ Customers \times Total\ LTV}{Ad\ Spend}
+$$
+
+---
+
+
