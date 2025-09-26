@@ -2,7 +2,9 @@
 
 ## 1. What is ROI in marketing and how is it calculated?
 - **Definition:** Return on Investment (ROI) measures the profit generated relative to the cost of a marketing campaign.  
-- **Formula (Method 1):**  
+- **Formula (Method 1):**
+
+  $$ ROI = \frac{Sales\ Growth - Marketing\ Cost}{Marketing\ Cost} $$
   ```
   ROI = (Sales Growth – Marketing Cost) / Marketing Cost
   ```  
@@ -53,9 +55,6 @@
 ## 4. What is CAC and how is it calculated?
 - **Definition:** Customer Acquisition Cost (CAC) is the average cost of acquiring one paying customer.  
 - **Formula:**
-
-  CAC=NumberofNewCustomersAcquiredTotalMarketing+SalesCosts​
-   
   ```
   CAC = (Total Marketing + Sales Costs) / Number of New Customers Acquired
   ```  
