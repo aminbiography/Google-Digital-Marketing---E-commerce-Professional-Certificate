@@ -46,6 +46,8 @@ The communication plan outlines the **information needs** of stakeholders, the *
 3. **Stakeholder Analysis** – Roles, influence/interest levels, information needs, communication approaches.
 4. **Communication Plan Table** – Detailed breakdown of “what to share” and “how to share” for each stakeholder.
 
+**Live Backup**:
+- [Google Doc Report](https://docs.google.com/presentation/d/17JJDSTMGpzKPYcUy7ekovgKszLimHju7n4Se87psZ2g/edit?usp=drive_link)   
 ---
 
 ## **Project Conclusion**
@@ -63,9 +65,9 @@ This targeted communication approach builds **trust, efficiency, and collaborati
 ---
 
 ## **Project Credit**
-
-Prepared by: **[Your Name]**
-Role: **Marketing Coordinator, Tilly’s Toys**
-Date: **[Insert Date]**
-
+- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)
+- **Prepared for**: **Tilly’s Toys Marketing Team** 
+- **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
+- **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
 ---
