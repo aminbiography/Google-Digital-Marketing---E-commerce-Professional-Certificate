@@ -42,7 +42,9 @@ The communication plan outlines the **information needs** of stakeholders, the *
 ## **Supporting Documents**
 
 1. **Stakeholder Map** – Visual representation of influence vs interest (Marketing team, CEO, Project Manager, IT team, External Ad Agency).
- [Stakeholder Map](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Complete%20a%20stakeholder%20communication%20plan.png)   
+ 
+https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Complete%20a%20stakeholder%20communication%20plan.png 
+
 3. **Key Updates Report (Week of 6/13)** – Campaign performance metrics and issue log.
 4. **Stakeholder Analysis** – Roles, influence/interest levels, information needs, communication approaches.
 5. **Communication Plan Table** – Detailed breakdown of “what to share” and “how to share” for each stakeholder.
