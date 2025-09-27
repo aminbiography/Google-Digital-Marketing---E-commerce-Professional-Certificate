@@ -50,7 +50,7 @@ The communication plan outlines the **information needs** of stakeholders, the *
 5. **Communication Plan Table** – Detailed breakdown of “what to share” and “how to share” for each stakeholder.
 
 **Live Backup**:
-- ![Google Doc Report](https://docs.google.com/presentation/d/17JJDSTMGpzKPYcUy7ekovgKszLimHju7n4Se87psZ2g/edit?usp=drive_link)   
+- [Google Doc Report](https://docs.google.com/presentation/d/17JJDSTMGpzKPYcUy7ekovgKszLimHju7n4Se87psZ2g/edit?usp=drive_link)   
 ---
 
 ## **Project Conclusion**
