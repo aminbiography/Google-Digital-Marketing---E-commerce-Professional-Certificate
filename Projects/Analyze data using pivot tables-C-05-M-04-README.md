@@ -1,42 +1,101 @@
 # Project Title: **Optimizing Ad Strategy Through Conversion Rate Analysis**
 
+---
+
 ## Project Objective
 
-The objective of this project is to identify high- and low-performing time blocks based on conversion rate (CVR) and session data. By analyzing patterns with pivot tables, the goal is to recommend strategic ad scheduling that maximizes conversions while reducing wasted spend.
+The objective of this project is to identify **high-performing** and **low-performing** time blocks based on conversion rate (CVR) and session data. Using pivot tables for analysis, the goal is to recommend strategic ad scheduling that:
+
+* Maximizes conversions
+* Reduces wasted ad spend
+* Improves overall marketing ROI
+
+---
 
 ## Project Scenario
 
-The marketing team runs digital ads across multiple time blocks, but not all periods yield equal results. Sessions peak at certain times, yet conversions do not always follow the same pattern. A data-driven approach is required to find optimal times to scale advertising and periods to cut back.
+The marketing team at Lacier runs digital ad campaigns across multiple time blocks each week. While traffic (sessions) is strong during some periods, conversions do not always follow the same pattern.
+
+A **data-driven approach** is required to:
+
+* Detect when ads drive strong conversion rates.
+* Identify periods where ad spend is wasted due to low conversion efficiency.
+* Provide actionable recommendations to optimize ad scheduling.
+
+---
 
 ## Project Description
 
-* The dataset included hourly session and conversion data across all days of the week.
-* Pivot tables were used to summarize data by **Day of Week** and **Hour of Day**, calculating both raw conversions and conversion rate (CVR).
+1. **Dataset**
 
- ![Pivot Tables](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Analyze%20data%20using%20pivot%20tables-01.jpg)  
- 
-* A benchmark CVR of **≈12.75%** was established to classify “high” vs. “low” conversion periods.
-* Insights revealed that **moderate session blocks with high CVR** are better investment opportunities than high traffic periods with weak conversion efficiency.
-* Recommendations were consolidated into a professional stakeholder email.
-  
-![Stakeholder Email](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Analyze%20data%20using%20pivot%20tables-02.jpg) 
+   * Hourly session and conversion data across all seven days of the week.
+   * Metrics included: Users, Sessions, Bounce Rate, Pages/Session, Avg. Session Duration, Conversion Rate, and Conversions.
 
-## Project Supporting Documents / Live URL:
+2. **Tools & Methods**
 
- - [Pivot Tables](https://docs.google.com/spreadsheets/d/1wx-BcU2Lp0VN2ERq6Ach7hDgeMXyNS4yAYopfOyeAkk/edit?usp=drive_link)  
- - [Google Sheets - Stakeholder Email](https://docs.google.com/document/d/1ZO1qMCtdaijDhfZwZ7OhnN5dWXOOr13sC3ecXKYqHy4/edit?usp=drive_link)  
+   * Pivot tables created in **Google Sheets**.
+   * Rows: *Day of Week*
+   * Columns: *Hour of Day*
+   * Values: Sessions, Conversions, Conversion Rate (CVR).
+   * Conditional formatting applied to highlight performance patterns.
 
+3. **Benchmark**
+
+   * Overall **average CVR = ≈12.75%**.
+   * Used as the threshold to classify *high-performing* vs. *low-performing* blocks.
+
+4. **Findings**
+
+   * High CVR blocks often occurred during **weekday afternoons and evenings**, not necessarily during peak traffic hours.
+   * Early mornings consistently underperformed with low CVR despite moderate traffic.
+
+---
+
+![Pivot Tables](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Analyze%20data%20using%20pivot%20tables-01.jpg)
+
+---
+
+### Stakeholder Communication
+
+A professional stakeholder email was prepared to summarize findings and provide clear recommendations for ad scheduling.
+
+![Stakeholder Email](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Analyze%20data%20using%20pivot%20tables-02.jpg)
+
+---
+
+## Project Supporting Documents / Live URL
+
+* [Pivot Tables Spreadsheet](https://docs.google.com/spreadsheets/d/1wx-BcU2Lp0VN2ERq6Ach7hDgeMXyNS4yAYopfOyeAkk/edit?usp=drive_link)
+* [Stakeholder Email Document](https://docs.google.com/document/d/1ZO1qMCtdaijDhfZwZ7OhnN5dWXOOr13sC3ecXKYqHy4/edit?usp=drive_link)
+
+---
 
 ## Project Conclusion
 
-* **High-performing blocks:** Weekday afternoons and evenings, especially Monday and Tuesday (15:00–20:00). These periods consistently produced above-benchmark CVR (16–18%).
-* **Low-performing blocks:** Early mornings (03:00–06:00) across weekdays and weekends, with CVR often falling below 7%.
-* **Recommendation:** Increase ad spend during high CVR blocks and reduce spend during low-efficiency hours. This balances budget allocation and drives higher return on investment.
+* **High-performing blocks:**
+
+  * Mondays and Tuesdays (15:00–20:00)
+  * CVR consistently above **16–18%** during these hours.
+  * Best time to scale ad spend.
+
+* **Low-performing blocks:**
+
+  * Early mornings (03:00–06:00) across weekdays and weekends.
+  * CVR often falls below **7%**, making ads less effective.
+
+* **Recommendation:**
+
+  * **Increase ad spend** during weekday afternoons and evenings where CVR is strong.
+  * **Reduce ad spend** during early mornings and midday hours with high sessions but poor conversion efficiency.
+  * This strategy ensures **budget efficiency** and **higher ROI**.
+
+---
 
 ## Project Credit  
 - **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)
 - **Prepared For**: Lacier Marketing Team 
 - **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
 - **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
-- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
+- **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies. 
+
 ---
