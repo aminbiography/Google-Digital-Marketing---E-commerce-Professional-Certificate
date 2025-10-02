@@ -12,19 +12,19 @@ The marketing team runs digital ads across multiple time blocks, but not all per
 
 * The dataset included hourly session and conversion data across all days of the week.
 * Pivot tables were used to summarize data by **Day of Week** and **Hour of Day**, calculating both raw conversions and conversion rate (CVR).
+
  ![Pivot tables](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Analyze%20data%20using%20pivot%20tables-01.jpg)  
+ 
 * A benchmark CVR of **≈12.75%** was established to classify “high” vs. “low” conversion periods.
 * Insights revealed that **moderate session blocks with high CVR** are better investment opportunities than high traffic periods with weak conversion efficiency.
 * Recommendations were consolidated into a professional stakeholder email.
+  
 ![Stakeholder email](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Analyze%20data%20using%20pivot%20tables-02.jpg) 
 
-## Project Supporting Documents / Live URL
+## Project Supporting Documents / Live URL:
 
-* Pivot tables
  - [Pivot tables](https://docs.google.com/spreadsheets/d/1wx-BcU2Lp0VN2ERq6Ach7hDgeMXyNS4yAYopfOyeAkk/edit?usp=drive_link)  
-* Data insights notes prepared from pivot table observations.
-* Stakeholder email outlining recommended ad scheduling.
- - [Google Sheets](https://docs.google.com/document/d/1ZO1qMCtdaijDhfZwZ7OhnN5dWXOOr13sC3ecXKYqHy4/edit?usp=drive_link)  
+ - [Google Sheets - Stakeholder email](https://docs.google.com/document/d/1ZO1qMCtdaijDhfZwZ7OhnN5dWXOOr13sC3ecXKYqHy4/edit?usp=drive_link)  
 
 
 ## Project Conclusion
