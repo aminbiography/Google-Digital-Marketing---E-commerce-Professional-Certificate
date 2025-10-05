@@ -1,4 +1,4 @@
-# **Project Title:** **Google Sheets Data Visualization — Analyzing Conversion Rates by Time and Day**
+# **Project Title:** **Google Sheets Data Visualization - Analyzing Conversion Rates by Time and Day**
 
 ---
 
