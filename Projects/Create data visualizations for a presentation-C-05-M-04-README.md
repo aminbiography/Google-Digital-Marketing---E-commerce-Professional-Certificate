@@ -75,7 +75,7 @@ The objective was to visualize patterns in user behavior to identify the **most 
 
 ## **Project Source Live URL:**
 
-###[Google Sheets — Activity: Data Visualizations](https://docs.google.com/spreadsheets/d/1SdlOakCH-1ugzxDwI2BqBVgGHCOjJaZJAU45BMR6KjM/edit?usp=drive_link)
+[Google Sheets — Activity: Data Visualizations](https://docs.google.com/spreadsheets/d/1SdlOakCH-1ugzxDwI2BqBVgGHCOjJaZJAU45BMR6KjM/edit?usp=drive_link)
 
 ---
 
