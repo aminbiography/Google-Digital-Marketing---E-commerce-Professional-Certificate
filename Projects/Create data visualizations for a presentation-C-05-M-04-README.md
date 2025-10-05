@@ -29,7 +29,7 @@ The objective was to visualize patterns in user behavior to identify the **most 
 * Verified data structure and column types (Day, Hour, Metrics).
 * Removed duplicates and ensured time fields were formatted properly.
 
-  ![Step 1](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Create%20data%20visualizations%20for%20a%20presentation-01.jpg)
+![Step 1](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Create%20data%20visualizations%20for%20a%20presentation-01.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ The objective was to visualize patterns in user behavior to identify the **most 
 * Used `Day of Week` for X-axis and `Sessions` for Y-axis.
 * This revealed peak activity around weekends.
 
-  ![Step 2](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Create%20data%20visualizations%20for%20a%20presentation-02.png)
+![Step 2](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Create%20data%20visualizations%20for%20a%20presentation-02.png)
 
 ---
 
@@ -49,7 +49,7 @@ The objective was to visualize patterns in user behavior to identify the **most 
 * Built a **column chart** titled *“Average Conversion Rate by Day of Week.”*
 * Found higher rates mid-week compared to weekends.
 
-  ![Step 3](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Create%20data%20visualizations%20for%20a%20presentation-03.png)
+![Step 3](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Create%20data%20visualizations%20for%20a%20presentation-03.png)
 
 ---
 
@@ -59,7 +59,7 @@ The objective was to visualize patterns in user behavior to identify the **most 
 * Added a **line chart** using “Hour of Day” vs. “Conversion Rate.”
 * Identified conversion peaks around mid-morning and late evening.
 
-  ![Step 4](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Create%20data%20visualizations%20for%20a%20presentation-04.jpg)
+![Step 4](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Create%20data%20visualizations%20for%20a%20presentation-04.jpg)
 
 ---
 
@@ -69,13 +69,13 @@ The objective was to visualize patterns in user behavior to identify the **most 
 * Plotted a **line chart** comparing conversion rates across these weekdays.
 * The chart highlighted consistent morning-hour spikes and steady midday performance.
 
-  ![Step 5](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Create%20data%20visualizations%20for%20a%20presentation-05.jpg)
+![Step 5](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Create%20data%20visualizations%20for%20a%20presentation-05.jpg)
 
 ---
 
 ## **Project Source Live URL:**
 
-[Google Sheets — Activity: Data Visualizations](https://docs.google.com/spreadsheets/d/1SdlOakCH-1ugzxDwI2BqBVgGHCOjJaZJAU45BMR6KjM/edit?usp=drive_link)
+***[Google Sheets — Activity: Data Visualizations](https://docs.google.com/spreadsheets/d/1SdlOakCH-1ugzxDwI2BqBVgGHCOjJaZJAU45BMR6KjM/edit?usp=drive_link)***
 
 ---
 
@@ -91,10 +91,9 @@ The objective was to visualize patterns in user behavior to identify the **most 
 ## Project Credit  
 - **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)
 - **Data Source:** Activity Template Dataset (Google Analytics-style sample)
-- * **Visualization Type:** Column Chart, Stacked Chart, and Line Chart
+- **Visualization Type:** Column Chart, Stacked Chart, and Line Chart
 - **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
 - **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
 - **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.
-  
 ---
 
