@@ -45,8 +45,7 @@ $$
 
 $$
 \text{=C52/563}
-$$  
-
+$$
 (where C52 is the total purchases for that campaign)
 
 **Insight Example:**
