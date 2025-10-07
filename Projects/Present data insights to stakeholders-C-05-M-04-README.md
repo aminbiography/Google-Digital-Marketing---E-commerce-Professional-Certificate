@@ -80,7 +80,7 @@ We’ve identified **20 hours/week** to **increase** ad delivery and **22 hours/
 
 ## Project Credit  
 - **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)
-- **Prepared For**: Digital Marketing Leadership, Growth Team
+- **Prepared For**: L’Acier Digital Marketing Leadership
 - **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
 - **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
 - **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies. 
