@@ -43,12 +43,6 @@ $$
 
 (where C52 is the total purchases for that campaign)
 
-**Insight Example:**
-
-* 4.97% from Campaign 39343E
-* 2.84% from Campaign CGRWAT
-* 2.66% from Campaign EZ3043
-
 ---
 
 ## **3. Data Visualization in Spreadsheets**
