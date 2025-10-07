@@ -14,9 +14,11 @@
 ### Example Calculations:
 
 * **Percentage of campaign purchases:**
+  
   $$
-{Percentage} = \frac{\text{Campaign purchases}}{\text{Total purchases}} \times 100
+Percentage = Campaign purchases \ Total purchases X 100
   $$
+  
 * **Count campaign codes (Google Sheets / Excel):**
   `=COUNTA(F2:F500)` → counts non-empty cells.
 
