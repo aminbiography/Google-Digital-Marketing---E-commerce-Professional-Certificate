@@ -42,10 +42,10 @@ $$
 ### Example Calculations:
 
 * **Percentage of campaign purchases:**
-  [
-  \text{=C52/563}
-  ]
-  (where C52 is total purchases for that campaign)
+$$
+\text{=C52/563}
+$$  
+(where C52 is the total purchases for that campaign)
 
 **Insight Example:**
 
