@@ -19,9 +19,6 @@ $$
 \text{Percentage} = \frac{\text{Campaign Purchases}}{\text{Total Purchases}} \times 100
 $$
 
-**Insight Example:**
-“2.66% of all purchases resulted from Campaign EZ3043.”
-
 ---
 
 ## **2. Pivot Tables**
