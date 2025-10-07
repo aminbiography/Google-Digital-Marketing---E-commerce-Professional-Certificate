@@ -79,7 +79,7 @@ We’ve identified **20 hours/week** to **increase** ad delivery and **22 hours/
 
 
 ## Project Credit  
-- **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)
+- **Project Executed & Presented By**: ***Mohammad Aminul Islam*** (Digital Marketing & E-commerce Analyst)
 - **Prepared For**: L’Acier Digital Marketing Leadership
 - **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
 - **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
