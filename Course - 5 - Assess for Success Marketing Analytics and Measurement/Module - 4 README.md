@@ -14,28 +14,11 @@
 ### Example Calculations:
 
 * **Percentage of campaign purchases:**
-  
-Sure! Here’s your formula written cleanly in **Markdown with LaTeX math formatting**:
-
-```markdown
-$$
-\text{Percentage} = \frac{\text{Campaign Purchases}}{\text{Total Purchases}} \times 100
-$$
-```
-
-When rendered, it will appear like this:
 
 $$
 \text{Percentage} = \frac{\text{Campaign Purchases}}{\text{Total Purchases}} \times 100
 $$
 
-
-
-
-
-
- 
-  
 * **Count campaign codes (Google Sheets / Excel):**
   `=COUNTA(F2:F500)` → counts non-empty cells.
 
