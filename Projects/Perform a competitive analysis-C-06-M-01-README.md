@@ -4,7 +4,7 @@
 
 ## **Project Scenario:**
 
-You are part of an e-commerce company specializing in home goods. The company plans to launch a new online store, **Bath EcoShop**, which will focus on **sustainable and eco-friendly bath products**, beginning with **organic bath towels**.
+I am part of an e-commerce company specializing in home goods. The company plans to launch a new online store, **Bath EcoShop**, which will focus on **sustainable and eco-friendly bath products**, beginning with **organic bath towels**.
 To prepare for the launch, you were asked to conduct **secondary market research** and perform a **competitive analysis** of three existing brands that sell eco-friendly bath towels. The goal was to identify how competitors position their products, manage marketing strategies, and serve customers.
 
 ---
