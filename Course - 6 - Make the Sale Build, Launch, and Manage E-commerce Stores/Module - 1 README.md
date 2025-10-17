@@ -23,170 +23,186 @@
 
 ### **3. Tools and Platforms**
 
-* **E-Commerce Platforms:** Enable online sales and management (e.g., **Shopify, Wix, WooCommerce, BigCommerce, Squarespace, Magento**).
-* **CRM Systems:** Tools like **Salesforce, HubSpot** help manage customer relationships.
-* **Analytics Tools:** **Google Analytics, Adobe Analytics, Tableau** track data and sales performance.
-* **Digital Marketing Tools:** **Google Ads, Hootsuite, HubSpot, Sprout Social** help promote products and measure results.
+* **E-Commerce Platforms:** Shopify, Wix, WooCommerce, BigCommerce, Squarespace, Magento.
+* **CRM Systems:** Salesforce, HubSpot — manage customer relationships.
+* **Analytics Tools:** Google Analytics, Adobe Analytics, Tableau — measure performance.
+* **Digital Marketing Tools:** Google Ads, Hootsuite, HubSpot, Sprout Social — promote and analyze campaigns.
 
 ---
 
-### **4. Starting Job Roles in E-Commerce**
+### **4. Starting Job Roles**
 
-* **E-Commerce Specialist / Analyst / Coordinator** – Manage store performance and sales.
-* **Digital Marketing Specialist** – Handles online ads and campaigns.
-* **SEO / SEM Specialist** – Improves search visibility and ad performance.
-* **Customer Support / Operations Coordinator** – Ensures smooth order fulfillment and client satisfaction.
+* **E-Commerce Specialist / Analyst:** Manage store operations and performance.
+* **Digital Marketing Specialist:** Plan and execute online campaigns.
+* **SEO / SEM Specialist:** Improve search visibility and ad performance.
+* **Customer Support / Operations Coordinator:** Ensure smooth fulfillment and satisfaction.
 
 ---
 
 ### **5. Market Research**
 
-* **Purpose:** Understand customer needs, preferences, and market opportunities.
-* **Primary Research:** First-hand data collection (surveys, interviews, focus groups).
-* **Secondary Research:** Using existing reports and data (government stats, published studies).
+* **Purpose:** Understand customer needs, preferences, and opportunities.
+* **Primary Research:** Direct data (surveys, interviews, focus groups).
+* **Secondary Research:** Existing data (reports, studies, statistics).
 
-**Focus Areas:**
-
-* **Market Size:** Number of potential customers.
-* **Target Audience:** Who’s most likely to buy.
-* **Competition:** Who else sells similar products.
+**Key Areas:**
+Market size • Target audience • Competition
 
 ---
 
 ### **6. Identifying Your Target Audience**
 
 * The **target audience** is the group most likely to buy your product.
-* Analyze **demographics** (age, income, education, location) and **psychographics** (values, interests, lifestyle).
-* Use tools like **Google Analytics** and **CRM data** to identify patterns and behaviors.
-* Understand customers’ **goals, motivations, and challenges** to align products and marketing strategies.
+* Analyze **demographics** (age, income, education, location) and **psychographics** (values, lifestyle, interests).
+* Use **Google Analytics** and **CRM tools** to identify patterns and behaviors.
+* Understand customer **goals, motivations, and pain points**.
 
 ---
 
 ## **7. Product Research**
 
-Determine which products are viable for your store by analyzing demand and profit.
-
 ### **Formulas**
 
-**Total Revenue (TR):**
-[
-TR = \text{Units Sold} \times \text{Average Selling Price (ASP)}
-]
+**Total Revenue (TR)**
 
-**Total Expenses (TE):**
-[
-TE = \text{COGS} + \text{Packaging} + \text{Shipping} + \text{Fulfillment} + \text{Advertising} + \text{Returns} + \text{Other Costs}
-]
+```
+TR = Units Sold × Average Selling Price
+```
 
-**Net Profit (NP):**
-[
+**Total Expenses (TE)**
+
+```
+TE = COGS + Packaging + Shipping + Fulfillment + Advertising + Returns + Other Costs
+```
+
+**Net Profit (NP)**
+
+```
 NP = TR - TE
-]
+```
 
-**Net Profit Margin (NPM):**
-[
-NPM = \left(\frac{NP}{TR}\right) \times 100
-]
+**Net Profit Margin (NPM)**
+
+```
+NPM = (NP ÷ TR) × 100
+```
+
+**Example:**
+
+```
+TR = 500 × 800 = $400,000
+TE = $280,000
+NP = 400,000 - 280,000 = $120,000
+NPM = (120,000 ÷ 400,000) × 100 = 30%
+```
 
 ---
 
 ### **ROAS (Return on Ad Spend)**
 
-[
-ROAS = \frac{\text{Ad-Attributed Revenue}}{\text{Ad Spend}}
-]
+```
+ROAS = Ad-Attributed Revenue ÷ Ad Spend
+```
+
+**Example:**
+
+```
+ROAS = 360,000 ÷ 45,000 = 8
+```
+
+→ Every $1 spent on ads earns $8 in sales.
 
 ---
 
 ## **8. Product Sourcing**
 
-**Methods:**
+**Options:**
 
-1. **Create In-House:** High control & uniqueness, but costly.
-2. **From Manufacturers:** Outsourced production; saves time but reduces control.
-3. **Wholesalers:** Buy in bulk and resell; higher margin potential.
-4. **Dropshipping:** Supplier ships directly to customer; low cost but low control.
+1. **Create In-House:** High control and uniqueness, but high cost.
+2. **Manufacturers:** Outsourced production; lower control, less time.
+3. **Wholesalers:** Buy in bulk, resell for profit; handle shipping.
+4. **Dropshipping:** Supplier ships directly to customer; lowest cost and control.
 
-**Consider:** Quality, shipping, fulfillment, profit margin, and time investment.
+**Consider:** quality, profit margin, shipping, fulfillment, and time.
 
 ---
 
 ## **9. Forecasting Demand**
 
-Forecasting predicts **future product demand** using data and trends.
-
-**Key Methods:**
-
 **Moving Average (MA):**
-[
-MA_n(t) = \frac{1}{n} \sum_{i=0}^{n-1} \text{Sales}_{t-i}
-]
+
+```
+MAₙ(t) = (Salesₜ + Salesₜ₋₁ + … + Salesₜ₋₍ₙ₋₁₎) ÷ n
+```
 
 **Year-over-Year (YoY) Growth:**
-[
-\text{YoY%} = \left(\frac{\text{Sales}*{\text{This Year}} - \text{Sales}*{\text{Last Year}}}{\text{Sales}_{\text{Last Year}}}\right) \times 100
-]
 
-Use analytics dashboards and sales data to detect **seasonal trends** and plan inventory levels.
+```
+YoY% = ((Sales_this_year - Sales_last_year) ÷ Sales_last_year) × 100
+```
+
+Use analytics to find seasonal trends and plan inventory.
 
 ---
 
 ## **10. Branding**
 
-Branding is the emotional and visual **identity of your business**.
+Branding is the **identity and reputation** of your business.
 
-**Core Elements:**
+**Key Elements:**
 
-* Website design (layout, fonts, color scheme)
+* Website design and tone
 * Product quality and reliability
-* Customer service and responsiveness
-* Storytelling and mission statement
-* Shared values between brand and customers
+* Customer service experience
+* Storytelling and company mission
+* Shared values with customers
 
 **Example:**
-A pet brand donating part of profits to animal shelters builds emotional trust and loyalty.
+A pet store that donates to animal shelters builds trust and emotional connection.
 
 ---
 
 ## **11. Case Study: Prados Beauty**
 
-* Founded by **Cece Meadows**, Prados Beauty uplifts Indigenous artisans.
-* Offers products through an **Indigenous Marketplace** that supports fair profit sharing.
-* Uses **multi-channel marketing** — Google Ads, email, and social media — to promote artisans.
-* Example: Beaded earrings sold out in **2 hours**, proving brand trust and strong storytelling.
+* Founded by **Cece Meadows** in New Mexico.
+* Supports Indigenous artisans through an **Indigenous Marketplace**.
+* Uses **Google Ads**, **email**, and **social media** to promote fair-trade products.
+* Example: Beaded earrings sold out in **2 hours** due to strong storytelling and marketing.
 
 **Impact:**
-Prados Beauty empowers artisans, strengthens communities, and reinforces its ethical brand identity.
+Empowers artisans, strengthens communities, and builds an ethical, value-driven brand.
 
 ---
 
-## **12. Key Ratios in E-Commerce**
+## **12. Key Ratios**
 
 **Conversion Rate (CR):**
-[
-CR = \left(\frac{\text{Conversions}}{\text{Website Visits}}\right) \times 100
-]
+
+```
+CR = (Conversions ÷ Website Visits) × 100
+```
 
 **Average Order Value (AOV):**
-[
-AOV = \frac{\text{Revenue}}{\text{Number of Orders}}
-]
+
+```
+AOV = Revenue ÷ Number of Orders
+```
 
 **Gross Margin:**
-[
-\text{Gross Margin} = \left(\frac{\text{Revenue} - \text{COGS}}{\text{Revenue}}\right) \times 100
-]
+
+```
+Gross Margin = ((Revenue - COGS) ÷ Revenue) × 100
+```
 
 ---
 
 ## **13. Key Takeaways**
 
-* Understand your **market**, **target audience**, and **competition**.
-* Use clear **branding** and consistent **customer service** to build loyalty.
-* Track **profitability** using key metrics — NP, NPM, ROAS, CR, AOV.
-* Choose the right **sourcing strategy** for your product type and resources.
-* Use **forecasting** to balance inventory and meet demand.
-* Tell your brand’s story — connect emotionally with your customers.
+* Understand your **market**, **audience**, and **competition**.
+* Use strong **branding** and **customer service** to build loyalty.
+* Track metrics: **NP**, **NPM**, **ROAS**, **CR**, **AOV**.
+* Choose the right **sourcing model** for control and cost balance.
+* Forecast to meet demand efficiently.
+* Build a brand story that connects emotionally with customers.
 
 ---
-
