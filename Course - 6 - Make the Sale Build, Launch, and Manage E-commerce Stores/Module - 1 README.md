@@ -64,26 +64,31 @@ Market size • Target audience • Competition
 ### **Formulas**
 
 **Total Revenue (TR):**
+
 $$
 TR = \text{Units Sold} \times \text{Average Selling Price (ASP)}
 $$
 
 **Total Expenses (TE):**
+
 $$
 TE = \text{COGS} + \text{Packaging} + \text{Shipping} + \text{Fulfillment} + \text{Advertising} + \text{Returns} + \text{Other Costs}
 $$
 
 **Net Profit (NP):**
+
 $$
 NP = TR - TE
 $$
 
 **Net Profit Margin (NPM):**
+
 $$
 NPM = \left(\frac{NP}{TR}\right) \times 100
 $$
 
 **Example:**
+
 $$
 TR = 500 \times 800 = 400{,}000
 $$
@@ -104,7 +109,9 @@ $$
 $$
 ROAS = \frac{\text{Ad-Attributed Revenue}}{\text{Ad Spend}}
 $$
+
 **Example:**
+
 $$
 ROAS = \frac{360{,}000}{45{,}000} = 8
 $$
@@ -131,11 +138,13 @@ Forecasting predicts **future product demand** using data and trends.
 **Key Methods:**
 
 **Moving Average (MA):**
+
 $$
 MA_n(t) = \frac{1}{n} \sum_{i=0}^{n-1} \text{Sales}_{t-i}
 $$
 
 **Year-over-Year (YoY) Growth:**
+
 $$
 YoY% = \left(\frac{\text{Sales}*{\text{This Year}} - \text{Sales}*{\text{Last Year}}}{\text{Sales}_{\text{Last Year}}}\right) \times 100
 $$
@@ -176,16 +185,19 @@ Prados Beauty empowers artisans, strengthens communities, and reinforces its eth
 ## **12. Key Ratios**
 
 **Conversion Rate (CR):**
+
 $$
 CR = \left(\frac{\text{Conversions}}{\text{Website Visits}}\right) \times 100
 $$
 
 **Average Order Value (AOV):**
+
 $$
 AOV = \frac{\text{Revenue}}{\text{Number of Orders}}
 $$
 
 **Gross Margin:**
+
 $$
 \text{Gross Margin} = \left(\frac{\text{Revenue} - \text{COGS}}{\text{Revenue}}\right) \times 100
 $$
