@@ -56,21 +56,25 @@ Determine which products are viable for your store by analyzing demand and profi
 ### **Formulas:**
 
 **Total Revenue (TR):**
+
 [
 TR = \text{Units Sold} \times \text{Average Selling Price (ASP)}
 ]
 
 **Total Expenses (TE):**
+
 [
 TE = \text{COGS} + \text{Packaging} + \text{Shipping} + \text{Fulfillment} + \text{Advertising} + \text{Returns} + \text{Other Costs}
 ]
 
 **Net Profit (NP):**
+
 [
 NP = TR - TE
 ]
 
 **Net Profit Margin (NPM):**
+
 [
 NPM = \left(\frac{NP}{TR}\right) \times 100
 ]
@@ -105,11 +109,13 @@ Forecasting predicts **future product demand** using data and trends.
 **Key Methods:**
 
 **Moving Average (MA):**
+
 [
 MA_n(t) = \frac{1}{n} \sum_{i=0}^{n-1} \text{Sales}_{t-i}
 ]
 
 **Year-over-Year (YoY) Growth:**
+
 [
 \text{YoY%} = \left(\frac{\text{Sales}*{\text{This Year}} - \text{Sales}*{\text{Last Year}}}{\text{Sales}_{\text{Last Year}}}\right) \times 100
 ]
@@ -150,16 +156,19 @@ Prados Beauty empowers artisans, strengthens communities, and reinforces its eth
 ## **12. Key Ratios in E-Commerce**
 
 **Conversion Rate (CR):**
+
 [
 CR = \left(\frac{\text{Conversions}}{\text{Website Visits}}\right) \times 100
 ]
 
 **Average Order Value (AOV):**
+
 [
 AOV = \frac{\text{Revenue}}{\text{Number of Orders}}
 ]
 
 **Gross Margin:**
+
 [
 \text{Gross Margin} = \left(\frac{\text{Revenue} - \text{COGS}}{\text{Revenue}}\right) \times 100
 ]
