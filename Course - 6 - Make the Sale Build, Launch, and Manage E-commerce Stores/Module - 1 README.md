@@ -177,11 +177,11 @@ AOV = \frac{\text{Revenue}}{\text{Number of Orders}}
 
 ## **13. Key Takeaways**
 
-Understand your **market**, **target audience**, and **competition**.
-Use clear **branding** and consistent **customer service** to build loyalty.
-Track **profitability** using key metrics — NP, NPM, ROAS, CR, AOV.
-Choose the right **sourcing strategy** for your product type and resources.
-Use **forecasting** to balance inventory and meet demand.
-Tell your brand’s story — connect emotionally with your customers.
+- Understand your **market**, **target audience**, and **competition**.
+- Use clear **branding** and consistent **customer service** to build loyalty.
+- Track **profitability** using key metrics — NP, NPM, ROAS, CR, AOV.
+- Choose the right **sourcing strategy** for your product type and resources.
+- Use **forecasting** to balance inventory and meet demand.
+- Tell your brand’s story — connect emotionally with your customers.
 
 ---
