@@ -18,6 +18,8 @@
 * **Traffic:** Number of visitors to a website.
 * **Digital Shopping Cart:** The virtual version of a shopping cart in online stores.
 * **Domain:** The website’s main address (e.g., google.com).
+* **Brick-and-Mortar:** A traditional physical store with a fixed location where customers can shop in person.
+* **Click-and-Mortar:** A hybrid business model that operates both online (e-commerce) and offline (physical store).
 
 ---
 
