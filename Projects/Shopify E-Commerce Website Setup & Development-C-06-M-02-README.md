@@ -153,16 +153,16 @@ This project showcases strong practical understanding of **Shopify’s ecosystem
 
 - **Project Executed & Presented By**: **Mohammad Aminul Islam** (Digital Marketing & E-commerce Analyst)
 - **Platform Used:** Shopify (SaaS)
-- * **Tools & Integrations:**
+- **Tools & Integrations:**
   * Shopify Admin Dashboard
   * Shopify Analytics
   * Google Analytics
   * Google Merchant Center
   * Shopify Marketing & Discounts
   * Shopify Payments & Shipping
-  * Gemini 
+  * Gemini
   * ChatGPT
-* **Duration:** One Week
+- **Duration:** One Week
 - **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)
 - **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
 - **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.
