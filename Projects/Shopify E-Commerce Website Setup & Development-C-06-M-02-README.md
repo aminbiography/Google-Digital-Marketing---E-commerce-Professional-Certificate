@@ -177,6 +177,7 @@ This project showcases strong practical understanding of **Shopify’s ecosystem
   * Google Merchant Center
   * Shopify Marketing & Discounts
   * Shopify Payments & Shipping
+  * Canva
   * Gemini
   * ChatGPT
 - **Duration:** One Week
