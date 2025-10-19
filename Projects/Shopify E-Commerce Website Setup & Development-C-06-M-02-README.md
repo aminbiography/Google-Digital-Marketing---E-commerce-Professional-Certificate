@@ -22,7 +22,7 @@ The process covers every major area of e-commerce operations - **store creation,
 
 ---
 
-## **Project Description – Complete Setup Process**
+## **Project Description - Complete Setup Process**
 
 ### **Step 1: Creating the Shopify Account and Store**
 
