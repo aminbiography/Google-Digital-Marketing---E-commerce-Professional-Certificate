@@ -141,6 +141,17 @@ The process covers every major area of e-commerce operations — **store creatio
 
 ---
 
+## **Learning Outcomes**
+
+Through this project, I gained practical experience in:
+- Building and configuring a complete e-commerce platform using Shopify.
+- Managing products, payments, and logistics through integrated dashboards.
+- Setting up analytics and marketing tools to measure business performance.
+- Understanding domain management, store policies, and multi-channel sales.
+- Applying real-world e-commerce best practices to optimize customer experience.
+
+---
+
 ## **Project Conclusion**
 
 The **Shopify E-Commerce Website Setup & Development Project** demonstrates how to configure and launch a complete e-commerce platform using Shopify. Every key setup step — from account creation and product upload to analytics and marketing integration — was implemented systematically.
