@@ -24,6 +24,12 @@ The process covers every major area of e-commerce operations - **store creation,
 
 ## **Project Description - Complete Setup Process**
 
+
+## **Learning Reference:**
+This project was inspired and developed alongside the *Google Digital Marketing & E-commerce Certificate* on Coursera.  
+Lecture Reference: [Welcome to Module 2 – Make the Sale: Build, Launch, and Manage E-commerce Stores (Coursera)](https://www.coursera.org/learn/make-the-sale/lecture/HjALB/welcome-to-module-2)
+
+
 ### **Step 1: Creating the Shopify Account and Store**
 
 * Registered on the **Shopify website** and began a trial plan.
