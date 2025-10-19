@@ -6,7 +6,7 @@
 
 This project demonstrates the **end-to-end setup of an e-commerce website** using **Shopify**, one of the world’s leading Software-as-a-Service (SaaS) retail platforms. The goal was to build a secure, professional, and customer-friendly store ready to sell products online.
 
-The process covers every major area of e-commerce operations — **store creation, product management, payments setup, shipping, domain configuration, analytics integration, marketing tools**, and **Google Merchant Center linkage** — providing a full overview of how to design, configure, and prepare an online business for launch.
+The process covers every major area of e-commerce operations - **store creation, product management, payments setup, shipping, domain configuration, analytics integration, marketing tools**, and **Google Merchant Center linkage** - providing a full overview of how to design, configure, and prepare an online business for launch.
 
 ---
 
