@@ -29,6 +29,7 @@ The process covers every major area of e-commerce operations - **store creation,
 This project was inspired and developed alongside the *Google Digital Marketing & E-commerce Certificate* on Coursera.  
 Lecture Reference: [Welcome to Module 2 – Make the Sale: Build, Launch, and Manage E-commerce Stores (Coursera)](https://www.coursera.org/learn/make-the-sale/lecture/HjALB/welcome-to-module-2)
 
+---
 
 ![Add products to a Shopify store](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Add%20products%20to%20a%20Shopify%20store-01.jpg)
 
@@ -39,14 +40,16 @@ Lecture Reference: [Welcome to Module 2 – Make the Sale: Build, Launch, and Ma
 * **Product Specification Sheet: Bamboo Cotton Blend Bath Towel**
 [https://docs.google.com/document/d/1fBnPCReY2E8hpb6nMXjAD8jYiVNinu4PpGcP_kiMp2k/edit?usp=drive_link](https://docs.google.com/document/d/1fBnPCReY2E8hpb6nMXjAD8jYiVNinu4PpGcP_kiMp2k/edit?usp=drive_link)
 
+---
 
 ![Product Specification Sheet: Bamboo Cotton Blend Bath Towel](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Add%20products%20to%20a%20Shopify%20store-02.jpg)
 
-  
+---
 
 * **Product Specification Sheet: Organic Cotton Bath Rug**
 [https://docs.google.com/document/d/1bdRScaONkO6erhDFkBBiBI3ppzJKGtSuvEewofcdvXk/edit?usp=drive_link](https://docs.google.com/document/d/1bdRScaONkO6erhDFkBBiBI3ppzJKGtSuvEewofcdvXk/edit?usp=drive_link)
 
+---
 
 ![Product Specification Sheet: Organic Cotton Bath Rug](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Add%20products%20to%20a%20Shopify%20store-03.jpg)
 
