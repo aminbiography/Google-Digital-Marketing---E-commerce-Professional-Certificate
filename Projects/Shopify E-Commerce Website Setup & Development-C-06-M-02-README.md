@@ -10,6 +10,8 @@ The process covers every major area of e-commerce operations - **store creation,
 
 ---
 
+## **Table of Contents**
+
 1. [Project Scenario](#project-scenario)
 2. [Project Objectives](#project-objectives)
 3. [Learning Reference](#learning-reference)
