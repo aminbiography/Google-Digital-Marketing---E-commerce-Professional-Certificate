@@ -10,6 +10,17 @@ The process covers every major area of e-commerce operations - **store creation,
 
 ---
 
+1. [Project Scenario](#project-scenario)
+2. [Project Objectives](#project-objectives)
+3. [Learning Reference](#learning-reference)
+4. [Project Sources](#project-sources)
+5. [Complete Setup Process (Steps 1–12)](#project-description---complete-setup-process)
+6. [Learning Outcomes](#learning-outcomes)
+7. [Project Conclusion](#project-conclusion)
+8. [Project Credit](#project-credit)
+
+---
+
 ## **Project Objectives**
 
 1. Create and configure a new Shopify store.
