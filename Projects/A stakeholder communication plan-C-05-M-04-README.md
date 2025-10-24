@@ -76,3 +76,5 @@ This targeted communication approach builds **trust, efficiency, and collaborati
 - **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)  
 - **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
 - **Copyright**: © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.  
+
+---
