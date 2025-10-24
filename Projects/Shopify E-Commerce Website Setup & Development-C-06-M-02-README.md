@@ -212,9 +212,6 @@ This project showcases strong practical understanding of **Shopify’s ecosystem
   * Google Merchant Center
   * Shopify Marketing & Discounts
   * Shopify Payments & Shipping
-  * Canva
-  * Gemini
-  * ChatGPT
 - **Duration:** One Week
 - **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)
 - **Guidance & Framework**: Google Digital Marketing & E-commerce documentation & instructions  
