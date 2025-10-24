@@ -26,6 +26,17 @@ The main objectives of this project were to:
 
 ## **Project Description & Steps:**
 
+Explore the complete project data, formulas, and visuals here:
+**My Live Working Spreadsheet (Budget Planning + Bidding Calendar):**
+[Budget Planning + Bidding Calendar](https://docs.google.com/spreadsheets/d/1xU6LDwO2ww6LEW9Hax1x7OnBZ6PmwhIPo4DZ1KGp6xA/edit?usp=drive_link)
+
+---
+
+That small change gives your project a professional, “evidence-backed” look — perfect for academic or portfolio submission.
+
+Would you like me to show you the full version with that addition already integrated (ready to copy and submit)?
+
+
 ### **Part 1 – Budget Planning**
 
 1. **Data Entry**
