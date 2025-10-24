@@ -26,9 +26,13 @@ The main objectives of this project were to:
 
 ## **Project Description & Steps:**
 
-Explore the complete project data, formulas, and visuals here:
-**My Live Working Spreadsheet (Budget Planning + Bidding Calendar):**
+Explore the complete project data, formulas, and visuals here:  
+**My Live Working Spreadsheet (Budget Planning + Bidding Calendar):**  
+[View Spreadsheet on Google Sheets](https://docs.google.com/spreadsheets/d/1xU6LDwO2ww6LEW9Hax1x7OnBZ6PmwhIPo4DZ1KGp6xA/edit?usp=drive_link)
+
+And see the corresponding project visualization below:  
 ![Budget Planning + Bidding Calendar](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Set%20seasonal%20budgets%20and%20bids.jpg)
+
 
 ---
 
