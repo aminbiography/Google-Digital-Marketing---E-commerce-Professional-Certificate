@@ -135,17 +135,6 @@ Overall, the activity highlights my ability to leverage **Google Ads data, finan
 
 ---
 
-## **Project Credit:**
-
-* **Developed by:** *[Your Name]*
-* **Role:** *E-commerce Analyst*
-* **Organization:** *Personalized Presents (Case Scenario)*
-* **Course:** *Google Digital Marketing & E-commerce Certificate*
-* **Tools Used:** *Google Sheets, Google Ads Performance Planner, Chart Visualization, Bid Adjustment Modeling*
-* **Guided by:** *Google Career Certificates — Coursera*
-
----
-
 ## **Project Credit**  
 - **Project Executed & Presented By**: *Mohammad Aminul Islam* (Digital Marketing & E-commerce Analyst)  
 - **Project Source**: Google Digital Marketing & E-commerce hands-on project (Coursera)
