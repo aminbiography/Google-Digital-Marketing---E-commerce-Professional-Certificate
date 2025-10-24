@@ -28,7 +28,7 @@ The main objectives of this project were to:
 
 Explore the complete project data, formulas, and visuals here:
 **My Live Working Spreadsheet (Budget Planning + Bidding Calendar):**
-[Budget Planning + Bidding Calendar](https://docs.google.com/spreadsheets/d/1xU6LDwO2ww6LEW9Hax1x7OnBZ6PmwhIPo4DZ1KGp6xA/edit?usp=drive_link)
+![Budget Planning + Bidding Calendar](https://docs.google.com/spreadsheets/d/1xU6LDwO2ww6LEW9Hax1x7OnBZ6PmwhIPo4DZ1KGp6xA/edit?usp=drive_link)
 
 ---
 
