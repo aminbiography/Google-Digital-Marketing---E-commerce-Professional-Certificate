@@ -23,7 +23,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 ---
 
-![Make the Sale: Build, Launch, and Manage E-commerce Stores - Certificate](https://coursera.org/share/5f686ea0276361b650b19bf1a1872fec)
+![Make the Sale: Build, Launch, and Manage E-commerce Stores - Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KC6HHHCWH5IH/CERTIFICATE_LANDING_PAGE~KC6HHHCWH5IH.jpeg)
 
 ![Assess for Success: Marketing Analytics and Measurement - Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~0I5E517V4Y4I/CERTIFICATE_LANDING_PAGE~0I5E517V4Y4I.jpeg)
 
