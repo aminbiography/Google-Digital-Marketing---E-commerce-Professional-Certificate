@@ -4,7 +4,7 @@
 
 ## **Project Scenario:**
 
-Tee’s Shirts, an online T-shirt store, identified a high cart abandonment rate during checkout. Customers were leaving the process at key stages—sign-in, entering personal information, selecting shipping options, and entering payment details. As an e-commerce analyst, my role was to investigate why customers were abandoning their carts and provide actionable recommendations to enhance the checkout experience, reduce friction, and increase conversions.
+Tee’s Shirts, an online T-shirt store, identified a high cart abandonment rate during checkout. Customers were leaving the process at key stages-sign-in, entering personal information, selecting shipping options, and entering payment details. As an e-commerce analyst, my role was to investigate why customers were abandoning their carts and provide actionable recommendations to enhance the checkout experience, reduce friction, and increase conversions.
 
 ---
 
