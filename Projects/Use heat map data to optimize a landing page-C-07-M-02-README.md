@@ -36,6 +36,8 @@ These suggestions aim to make the signup process more visible, engaging, and use
 
 [Landing Page Ideas Email Template – Google Docs](https://docs.google.com/document/d/10VKqmdJgdGp-iYSeDj_fE_ROoy0pvrDJm317P6f3Z9Q/edit?usp=drive_link)
 
+[Use heat map data to optimize a landing page – Google Docs](https://drive.google.com/file/d/17gZFgQRrZD3bGQ2xHCTA6VwqtxHl7ESB/view?usp=drive_link)
+
 ---
 
 ### **Project Conclusion:**
