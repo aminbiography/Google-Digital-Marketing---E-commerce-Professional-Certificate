@@ -20,7 +20,7 @@ Use internal search analytics to:
 
 ---
 
-# **Project Description (Step by Step)**
+# **Project Description**
 
 1. **Collect Data**
    Exported a list of internal search terms with **Unique Searches** from the e-commerce store’s analytics dashboard.
