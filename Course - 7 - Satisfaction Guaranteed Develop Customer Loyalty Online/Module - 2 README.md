@@ -119,14 +119,13 @@
 #### **2. Cost & Return Metrics**
 
 * **Cost Per Acquisition (CPA):**  
-  **Formula:** $$(\text{Total Cost of Conversions} \div \text{Number of Conversions})$$
+ ### **Formula:** $$(\text{Total Cost of Conversions} \div \text{Number of Conversions})$$
 
 * **Customer Acquisition Cost (CAC):**  
-  **Formula:**  
-  $$(\text{Total Sales and Marketing Cost} \div \text{Number of Customers Acquired})$$
+ ### **Formula:**  $$(\text{Total Sales and Marketing Cost} \div \text{Number of Customers Acquired})$$
 
 * **Return on Ad Spend (ROAS):**  
-  **Formula:** $$(\text{Revenue from Ads} \div \text{Ad Spend})$$  
+ ### **Formula:** $$(\text{Revenue from Ads} \div \text{Ad Spend})$$  
   Example: ROAS of 4:1 means $4 earned for every $1 spent.
 
 * **Return on Investment (ROI):**  
