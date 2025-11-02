@@ -96,12 +96,10 @@
 
 ### **Analytical Terms in E-Commerce**
 
-### **1. Conversion and Performance Metrics**
+#### **1. Conversion and Performance Metrics**
 
-* **Conversion Rate (CR):**
-  
- #### **Formula:** $$(\text{Conversions} \div \text{Total Visitors}) \times 100$$
-  
+* **Conversion Rate (CR):**  
+  **Formula:** $$(\text{Conversions} \div \text{Total Visitors}) \times 100$$  
   Measures how many visitors complete a desired action (like a purchase).
 
 * **Cart Abandonment Rate (CAR):**  
@@ -124,9 +122,7 @@
   **Formula:** $$(\text{Total Cost of Conversions} \div \text{Number of Conversions})$$
 
 * **Customer Acquisition Cost (CAC):**  
-  **Formula:**
-  
-  $$(\text{Total Sales & Marketing Cost} \div \text{Number of Customers Acquired})$$
+  **Formula:** $$(\text{Total Sales & Marketing Cost} \div \text{Number of Customers Acquired})$$
 
 * **Return on Ad Spend (ROAS):**  
   **Formula:** $$(\text{Revenue from Ads} \div \text{Ad Spend})$$  
