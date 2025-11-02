@@ -96,6 +96,8 @@
 
 ### **Analytical Terms in E-Commerce**
 
+---
+
 #### **1. Conversion and Performance Metrics**
 
 * **Conversion Rate (CR):**  
