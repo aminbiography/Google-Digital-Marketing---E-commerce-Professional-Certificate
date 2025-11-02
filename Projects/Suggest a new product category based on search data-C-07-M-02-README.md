@@ -13,59 +13,64 @@ A fine art supplies e-commerce store observed growing interest in broader **craf
 # **Project Objective**
 
 Use internal search analytics to:
-- Categorize customer search queries into actionable product categories  
-- Quantify demand by **unique searches** per category  
-- Recommend the **top category** for near-term product expansion  
+
+* Categorize customer search queries into actionable product categories
+* Quantify demand by **unique searches** per category
+* Recommend the **top category** for near-term product expansion
 
 ---
 
 # **Project Description (Step by Step)**
 
-1. **Collect Data**  
+1. **Collect Data**
    Exported a list of internal search terms with **Unique Searches** from the e-commerce store’s analytics dashboard.
 
-2. **Define Categories**  
+2. **Define Categories**
    Dropdown menu options: **Yarn**, **Jewelry making**, **Candle making**, **Other**.
 
-3. **Classify Terms**  
-   Each search term was assigned a relevant category.  
-   *Examples:*  
-   - “Velvet yarn” → Yarn  
-   - “Soy candle wax” → Candle making  
-   - “Earring making supplies” → Jewelry making  
+3. **Classify Terms**
+   Each search term was assigned a relevant category.
+   *Examples:*
 
-4. **Build a Pivot Table**  
-   - Rows: **Category**  
-   - Values: **SUM of Unique Searches**  
+   * “Velvet yarn” → Yarn
+   * “Soy candle wax” → Candle making
+   * “Earring making supplies” → Jewelry making
 
-**Snippet URL (visual):**  
-![PIVOT TABLE - Snippet](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Suggest%20a%20new%20product%20category%20based%20on%20search%20data.jpg)  
+4. **Build a Pivot Table**
+
+   * Rows: **Category**
+   * Values: **SUM of Unique Searches**
+
+**Snippet URL (visual):**
+![PIVOT TABLE - Snippet](https://github.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/blob/main/bar-graph-chart-image/Suggest%20a%20new%20product%20category%20based%20on%20search%20data.jpg)
 
 ---
 
 5. **Compute Totals** (from the finalized pivot table)
-   - **Yarn:** 81,114  
-   - **Candle making:** 57,872  
-   - **Jewelry making:** 47,595  
-   - **Other:** 21,753  
+
+   * **Yarn:** 81,114
+   * **Candle making:** 57,872
+   * **Jewelry making:** 47,595
+   * **Other:** 21,753
 
 **Key Insight:** *Yarn received the highest number of unique searches, making it the most promising category for expansion.*
 
 ---
 
-6. **Interpret Results**  
+6. **Interpret Results**
    Yarn-related searches outperformed other categories, indicating strong on-site interest and customer intent. This suggests untapped potential for new yarn products and accessories.
 
-7. **Recommend Actions**  
-   - Expand **Yarn** product assortment (weights, fibers, textures, and colors)  
-   - Optimize search and navigation for yarn-related keywords (“dk yarn,” “super bulky yarn,” etc.)  
-   - Promote **yarn bundles** and **learn-to-knit kits**  
-   - Improve SEO and on-site content for high-volume modifiers (“chunky yarn,” “knitting kits”)  
-   - Track future performance metrics such as views, add-to-carts, conversion rate, and return rate  
+7. **Recommend Actions**
+
+   * Expand **Yarn** product assortment (weights, fibers, textures, and colors)
+   * Optimize search and navigation for yarn-related keywords (“dk yarn,” “super bulky yarn,” etc.)
+   * Promote **yarn bundles** and **learn-to-knit kits**
+   * Improve SEO and on-site content for high-volume modifiers (“chunky yarn,” “knitting kits”)
+   * Track future performance metrics such as views, add-to-carts, conversion rate, and return rate
 
 ---
 
-**Live Project Source (Spreadsheet):**  
+**Live Project Source (Spreadsheet):**
 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1xsX9zzfGzcH_O5vkRURxbP3Eu9SO1CsTHekLbtBiZ94/edit?usp=drive_link)
 
 ---
@@ -78,11 +83,11 @@ The internal site search data analysis clearly identifies **Yarn** as the top-pe
 
 ## **Project Credit**
 
-- **Project Executed & Presented By:** *Mohammad Aminul Islam* (Digital Marketing & E-commerce Analyst)  
-- **Data Source:** Internal site search logs & pivot analysis in Google Sheets  
-- **Project Source:** Google Digital Marketing & E-commerce Professional Certificate (Coursera)  
-- **Guidance & Framework:** Google Digital Marketing & E-commerce documentation & instructions  
-- **Copyright:** © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.
-  
-```
+* **Project Executed & Presented By:** *Mohammad Aminul Islam* (Digital Marketing & E-commerce Analyst)
+* **Data Source:** Internal site search logs & pivot analysis in Google Sheets
+* **Project Source:** Google Digital Marketing & E-commerce Professional Certificate (Coursera)
+* **Guidance & Framework:** Google Digital Marketing & E-commerce documentation & instructions
+* **Copyright:** © 2022 Google LLC. Google and the Google logo are trademarks of Google LLC. Other names may be trademarks of their respective companies.
+
+---
 
