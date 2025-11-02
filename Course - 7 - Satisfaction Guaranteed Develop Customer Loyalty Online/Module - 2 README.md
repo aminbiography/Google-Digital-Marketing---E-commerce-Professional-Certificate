@@ -104,6 +104,7 @@
   [
   \text{(Conversions ÷ Total Visitors)} × 100
   ]
+  
   Measures how many visitors complete a desired action (like a purchase).
 
 * **Cart Abandonment Rate (CAR):**
