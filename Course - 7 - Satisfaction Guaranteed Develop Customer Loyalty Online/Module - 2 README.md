@@ -94,32 +94,40 @@
 
 ---
 
-### **Mathematical & Analytical Terms in E-Commerce**
+### **Analytical Terms in E-Commerce**
 
 #### **1. Conversion and Performance Metrics**
 
 * **Conversion Rate (CR):**
+  
   [
   \text{(Conversions ÷ Total Visitors)} × 100
   ]
+  
   Measures how many visitors complete a desired action (like a purchase).
 
 * **Cart Abandonment Rate (CAR):**
+  
   [
   \text{(Carts Abandoned ÷ Carts Created)} × 100
   ]
+  
   Indicates the percentage of users who add items but don’t complete checkout.
 
 * **Customer Retention Rate (CRR):**
+  
   [
   \frac{(E - N)}{S} × 100
   ]
+  
   *E = Customers at end of period, N = New customers, S = Customers at start.*
 
 * **Customer Lifetime Value (CLV or LTV):**
+  
   [
   \text{Average Purchase Value × Purchase Frequency × Customer Lifespan}
   ]
+  
   Measures long-term revenue potential from one customer.
 
 ---
@@ -127,25 +135,31 @@
 #### **2. Cost & Return Metrics**
 
 * **Cost Per Acquisition (CPA):**
+  
   [
   \text{Total Cost of Conversions ÷ Number of Conversions}
   ]
 
 * **Customer Acquisition Cost (CAC):**
+  
   [
   \text{Total Sales & Marketing Cost ÷ Number of Customers Acquired}
   ]
 
 * **Return on Ad Spend (ROAS):**
+  
   [
   \text{Revenue from Ads ÷ Ad Spend}
   ]
+  
   Example: ROAS of 4:1 means $4 earned for every $1 spent.
 
 * **Return on Investment (ROI):**
+  
   [
   \frac{(\text{Revenue} - \text{Cost})}{\text{Cost}} × 100
   ]
+  
   Shows the profitability of marketing or business efforts.
 
 ---
@@ -153,27 +167,35 @@
 #### **3. Revenue & Order Metrics**
 
 * **Average Order Value (AOV):**
+  
   [
   \text{Total Revenue ÷ Number of Orders}
   ]
+  
   Indicates how much customers spend per transaction.
 
 * **Net Profit Margin:**
+  
   [
   \frac{\text{Net Profit}}{\text{Total Revenue}} × 100
   ]
+  
   Shows how much profit remains after expenses.
 
 * **Product Conversion Rate:**
+  
   [
   \frac{\text{Product Purchases}}{\text{Product Page Views}} × 100
   ]
+  
   Measures how effectively a product page converts visitors.
 
 * **Return Rate:**
+  
   [
   \frac{\text{Units Returned}}{\text{Units Sold}} × 100
   ]
+  
   Indicates the percentage of sold products that were returned.
 
 ---
@@ -181,15 +203,19 @@
 #### **4. Growth and Trend Analysis**
 
 * **Quarter-over-Quarter (QoQ) Growth:**
+  
   [
   \frac{(\text{Current Quarter Metric} - \text{Previous Quarter Metric})}{\text{Previous Quarter Metric}} × 100
   ]
+  
   Measures performance change between two time periods.
 
 * **Year-over-Year (YoY) Growth:**
+  
   [
   \frac{(\text{Current Year Metric} - \text{Previous Year Metric})}{\text{Previous Year Metric}} × 100
   ]
+  
   Tracks annual growth or decline.
 
 ---
@@ -197,22 +223,31 @@
 #### **5. Engagement & Email Metrics**
 
 * **Open Rate:**
+  
   [
   \text{(Emails Opened ÷ Emails Sent)} × 100
   ]
+  
 * **Click-to-Open Rate (CTOR):**
+  
   [
   \text{(Clicks ÷ Opens)} × 100
   ]
+  
 * **Unsubscribe Rate:**
+  
   [
   \text{(Unsubscribes ÷ Emails Delivered)} × 100
   ]
+  
 * **Complaint Rate:**
+  
   [
   \text{(Complaints ÷ Emails Delivered)} × 100
   ]
+  
 * **Email Bounce Rate:**
+  
   [
   \text{(Undelivered Emails ÷ Emails Sent)} × 100
   ]
@@ -222,17 +257,23 @@
 #### **6. Advertising & Traffic Metrics**
 
 * **Cost Per Click (CPC):**
+  
   [
   \text{Total Ad Spend ÷ Number of Clicks}
   ]
+  
 * **Click-Through Rate (CTR):**
+  
   [
   \text{(Clicks ÷ Impressions)} × 100
   ]
+  
 * **Qualified Traffic Rate:**
+  
   [
   \text{(Qualified Visitors ÷ Total Visitors)} × 100
   ]
+  
   Measures how much of your traffic is likely to convert.
 
 ---
