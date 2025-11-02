@@ -1,4 +1,4 @@
-# **Satisfaction Guaranteed: Develop Customer Loyalty Online**
+# **Develop Customer Loyalty Online**
 
 
 #### **1. Customer Loyalty & Trust**
