@@ -100,6 +100,7 @@
 #### **1. Conversion and Performance Metrics**
 
 * **Conversion Rate (CR):**
+
   [
   \text{(Conversions ÷ Total Visitors)} × 100
   ]
