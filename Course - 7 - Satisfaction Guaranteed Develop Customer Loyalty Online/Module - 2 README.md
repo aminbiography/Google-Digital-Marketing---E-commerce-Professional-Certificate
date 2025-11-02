@@ -94,9 +94,9 @@
 
 ---
 
-### **Analytical Terms in E-Commerce**
+## **Analytical Terms in E-Commerce**
 
-#### **1. Conversion and Performance Metrics**
+### **1. Conversion and Performance Metrics**
 
  **Conversion Rate (CR):**  
   **Formula:** $$(\text{Conversions} \div \text{Total Visitors}) \times 100$$  
