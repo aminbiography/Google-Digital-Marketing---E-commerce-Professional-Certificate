@@ -9,7 +9,7 @@ Sinclair Verde Lamp Company (Phoenix, AZ) recently launched an online store to b
 * **Primary:** Maximize predicted clicks within a **$1,000** monthly budget.
 * **Secondary:** Align keywords with the brand’s **sustainability/upcycling** mission and the target audience (ages **30–55** in the U.S. and Canada who care about décor and eco-friendly living).
 
-# **Project Description**
+# **Project Description:**
 
 **Step 1 — Access & Review Template**
 Imported the provided keyword dataset containing: Predicted Impressions, CTR, Clicks, CPC, and Cost.
