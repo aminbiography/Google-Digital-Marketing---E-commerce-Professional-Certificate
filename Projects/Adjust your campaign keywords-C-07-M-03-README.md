@@ -45,7 +45,7 @@ Selected a set of keywords from the dropdown to **maximize clicks**. Focused on 
 
 # **Project Live Source URL**
 
-[https://docs.google.com/spreadsheets/d/1KDdidW65CPRTODgkOXL7i692JlqOugeKPZ4gcn1uXzE/edit?usp=drive_link](https://docs.google.com/spreadsheets/d/1KDdidW65CPRTODgkOXL7i692JlqOugeKPZ4gcn1uXzE/edit?usp=drive_link)
+[Keyword Optimization Plan – Sinclair Verde Lamp Company (Google Sheets)](https://docs.google.com/spreadsheets/d/1KDdidW65CPRTODgkOXL7i692JlqOugeKPZ4gcn1uXzE/edit?usp=drive_link)
 
 # **Project Conclusion**
 
