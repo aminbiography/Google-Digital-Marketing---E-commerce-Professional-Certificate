@@ -2,7 +2,7 @@
 
 # **Project Scenario**
 
-Good Mercury Marketing (my agency) completed its second year managing digital marketing for the Sinclair Verde Lamp Company. I was responsible for synthesizing Google Analytics and social data into a client-ready, 18-slide presentation that reviewed results, highlighted holiday season performance, and set up next-year recommendations.
+Good Mercury Marketing (my client) completed its second year managing digital marketing for the Sinclair Verde Lamp Company. I was responsible for synthesizing Google Analytics and social data into a client-ready, 18-slide presentation that reviewed results, highlighted holiday season performance, and set up next-year recommendations.
 
 # **Project Objective**
 
