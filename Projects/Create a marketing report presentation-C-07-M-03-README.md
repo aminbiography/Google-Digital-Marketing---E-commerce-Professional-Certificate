@@ -1,4 +1,4 @@
-# **Project Title:** **End-of-Year Marketing Report — Sinclair Verde Lamp Company (2021)**
+# **Project Title:** **End-of-Year Marketing Report - Sinclair Verde Lamp Company (2021)**
 
 # **Project Scenario**
 
