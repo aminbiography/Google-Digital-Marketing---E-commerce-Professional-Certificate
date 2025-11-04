@@ -75,11 +75,11 @@ Good Mercury Marketing (my agency) completed its second year managing digital ma
 # **Project Live Sources**
 
 * **Project Scenario & Brief (Doc):**
-  [https://docs.google.com/document/d/1Eg9rk0LOKfmODLUupCzTVYONEJxhmtpXCUizWT0e7BI/edit?usp=drive_link](https://docs.google.com/document/d/1Eg9rk0LOKfmODLUupCzTVYONEJxhmtpXCUizWT0e7BI/edit?usp=drive_link)
+  [Digital Marketing Strategy](https://docs.google.com/document/d/1Eg9rk0LOKfmODLUupCzTVYONEJxhmtpXCUizWT0e7BI/edit?usp=drive_link)
 * **Analysis Workbook (Google Sheets):**
-  [https://docs.google.com/spreadsheets/d/1ePRXN6Ir57ZXyJZwTpKSOSmI7fVQV3tuQvQ96fQdvl4/edit?usp=drive_link](https://docs.google.com/spreadsheets/d/1ePRXN6Ir57ZXyJZwTpKSOSmI7fVQV3tuQvQ96fQdvl4/edit?usp=drive_link)
+  [Sinclair Verde Lamp Company Analysis Report](https://docs.google.com/spreadsheets/d/1ePRXN6Ir57ZXyJZwTpKSOSmI7fVQV3tuQvQ96fQdvl4/edit?usp=drive_link)
 * **Final Presentation (Google Slides):**
-  [https://docs.google.com/presentation/d/1evHPpswRwezaiUjD6eSYWiHgTHDC7sM7Kr97dMnQdTk/edit?usp=drive_link](https://docs.google.com/presentation/d/1evHPpswRwezaiUjD6eSYWiHgTHDC7sM7Kr97dMnQdTk/edit?usp=drive_link)
+  [Marketing report presentation](https://docs.google.com/presentation/d/1evHPpswRwezaiUjD6eSYWiHgTHDC7sM7Kr97dMnQdTk/edit?usp=drive_link)
 
 # **Project Conclusion**
 
