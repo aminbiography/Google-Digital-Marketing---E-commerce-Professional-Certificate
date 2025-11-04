@@ -16,7 +16,7 @@ To create a data-driven internal marketing proposal that outlines effective stra
 
 ---
 
-## **Project Description – Step by Step:**
+## **Project Description:**
 
 ### **Step 1: Review Key Client Information**
 
