@@ -63,7 +63,7 @@ Good Mercury Marketing (my client) completed its second year managing digital ma
 
    * Slide 17 introduces the section.
    * **Final slide copy (Slide 18):**
-     *“In conclusion, the overall marketing data suggests strong and consistent growth across digital channels in 2021, reflecting improved engagement and brand visibility. Based on these trends, Good Mercury Marketing predicts continued gains next year, with emphasis on targeted social media campaigns and seasonal promotions to sustain momentum.”*
+     *“In conclusion, the overall marketing data suggests  strong and consistent growth across all digital platforms in 2021, reflecting improved engagement and brand visibility. Based on this data, Good Mercury Marketing predicts that in the upcoming year it will continue building on these upward trends, focusing on targeted social media campaigns and seasonal promotions to sustain growth.”*
    
 # **Deliverables & Checklist**
 
