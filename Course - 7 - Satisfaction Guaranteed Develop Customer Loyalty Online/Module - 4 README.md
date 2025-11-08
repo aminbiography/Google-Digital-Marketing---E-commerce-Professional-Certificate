@@ -61,4 +61,3 @@
 
 ---
 
-Would you like me to format this note into a **one-page printable summary (PDF)** for quick revision before interviews or assessments?
