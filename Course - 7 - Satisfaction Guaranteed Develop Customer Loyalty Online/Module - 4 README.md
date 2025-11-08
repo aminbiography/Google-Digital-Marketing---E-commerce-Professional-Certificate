@@ -1,6 +1,7 @@
 ### Terms and definitions from all courses
 
-\#  
+---
+
 **404 page**: A URL that tells the visitor that the webpage does not exist	  
 A  
 **A/B testing**: A method of testing where two versions of content with a single differing variable are compared to determine which yields better results			
