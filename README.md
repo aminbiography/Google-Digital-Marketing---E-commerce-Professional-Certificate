@@ -23,6 +23,10 @@ The above copyright notice and this permission notice shall be included in all c
 
 ---
 
+![Google Digital Marketing & E-commerce Professional Certificate](https://coursera-certificate-images.s3.amazonaws.com/B5MTY9LF9GKB)
+
+![Accelerate Your Job Search with AI - Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~RZM8XI6GDSO8/CERTIFICATE_LANDING_PAGE~RZM8XI6GDSO8.jpeg)
+
 ![Satisfaction Guaranteed: Develop Customer Loyalty Online - Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~AOEKFACTSFZV/CERTIFICATE_LANDING_PAGE~AOEKFACTSFZV.jpeg)
 
 ![Make the Sale: Build, Launch, and Manage E-commerce Stores - Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KC6HHHCWH5IH/CERTIFICATE_LANDING_PAGE~KC6HHHCWH5IH.jpeg)
