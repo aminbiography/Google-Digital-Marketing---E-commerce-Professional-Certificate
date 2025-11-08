@@ -31,17 +31,3 @@ Digital marketers and e-commerce professionals should have a **portfolio** showc
 Digital marketing and e-commerce overlap but differ in focus — **marketing** promotes, while **e-commerce** sells. You can choose to be a **generalist** (broad skills) or a **specialist** (focused expertise). Career paths include working in **agencies**, **in-house teams**, or as a **freelancer**. Understanding your preferences helps you choose the right career direction.
 
 ---
-
-### **Terms & Definitions**
-
-A glossary of essential terms from digital marketing and e-commerce, including:
-
-* **A/B Testing, Conversion Rate, CPA, LTV, NPS, SEO, KPI,** and **ROI**
-* Tools: **Google Analytics, BigQuery, Python**
-* Models: **Subscription, Points, Tier-Based Rewards**
-* Metrics: **Open Rate, Bounce Rate, Return on Ad Spend**
-  This glossary provides a foundation for professional vocabulary and understanding of industry metrics.
-
----
-
-
