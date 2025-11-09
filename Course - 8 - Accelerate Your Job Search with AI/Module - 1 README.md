@@ -1,4 +1,4 @@
-# **Accelerate Your Job Search with AI**
+# **Uncover your transfareable skills with AI**
 
 ### **Google Career Certificate Completion**
 
