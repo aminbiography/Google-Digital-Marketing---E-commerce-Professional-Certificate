@@ -1,4 +1,4 @@
-# **Uncover your transfareable skills with AI**
+# **Uncover transfareable skills with AI**
 
 ### **Google Career Certificate Completion**
 
