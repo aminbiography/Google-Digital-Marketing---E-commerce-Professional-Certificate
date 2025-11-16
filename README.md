@@ -1,7 +1,7 @@
  <div align="center">   
 
 [![Google Digital Marketing & E-commerce Professional Certificate](https://images.credly.com/size/220x220/images/b2c0b492-138c-4cd5-8c51-a61a3e742418/blob)](https://www.credly.com/badges/24013a6e-ac8d-47fd-ba57-1e493bfc9e1e/public_url)
-
+ 
 </div>           
 
 Live URL:  https://aminbiography.github.io/Google-Digital-Marketing---E-commerce-Professional-Certificate/  
