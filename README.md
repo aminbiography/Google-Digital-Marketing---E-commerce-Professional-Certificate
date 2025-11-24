@@ -18,18 +18,16 @@ Live URL:  https://aminbiography.github.io/Google-Digital-Marketing---E-commerce
 
 ![Assess for Success: Marketing Analytics and Measurement - Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~0I5E517V4Y4I/CERTIFICATE_LANDING_PAGE~0I5E517V4Y4I.jpeg)
 
-
 ![Think Outside the Inbox: Email Marketing - Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~W7N316Z5PPW0/CERTIFICATE_LANDING_PAGE~W7N316Z5PPW0.jpeg)
 
-
 ![From Likes to Leads: Interact with Customers Online - Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DY8AZPSZ2IFX/CERTIFICATE_LANDING_PAGE~DY8AZPSZ2IFX.jpeg) 
-
 
 ![Google-Digital-Marketing-E-commerce-Professional-CertificateOn Coursera](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~R6WC4ERTOLBG/CERTIFICATE_LANDING_PAGE~R6WC4ERTOLBG.jpeg)
 
 [![Google-Digital-Marketing-E-commerce-Professional-CertificateOn Coursera](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~116E1PKCVKWR/CERTIFICATE_LANDING_PAGE~116E1PKCVKWR.jpeg) 
 
 ---
+
 ## MIT License
 
 Copyright (c) 2025 Mohammad Aminul Islam  
