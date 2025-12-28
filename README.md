@@ -6,7 +6,7 @@
 
 Live URL:  https://aminbiography.github.io/Google-Digital-Marketing---E-commerce-Professional-Certificate/   
 
----
+--- 
 
 ![Google Digital Marketing & E-commerce Professional Certificate](https://coursera-certificate-images.s3.amazonaws.com/B5MTY9LF9GKB)
 
