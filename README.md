@@ -3,7 +3,7 @@
   <img src="https://images.credly.com/images/b2c0b492-138c-4cd5-8c51-a61a3e742418/blob" alt="Google IT Automation with Python Badge" width="200"/>
 </a>       
 </div>                                       
- 
+  
 Live URL:  https://aminbiography.github.io/Google-Digital-Marketing---E-commerce-Professional-Certificate/   
 
 ---    
