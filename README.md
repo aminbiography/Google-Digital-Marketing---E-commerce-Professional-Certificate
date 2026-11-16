@@ -1,4 +1,4 @@
-<div align="center">
+
 ![Google Digital Marketing & E-commerce Professional Certificate](https://raw.githubusercontent.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/refs/heads/main/bar-graph-chart-image/GoogleDigitalMarketing%26E-commerceProfessionalCertifica%28v.2%29.png)     
 </div>                                                    
   
