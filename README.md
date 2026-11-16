@@ -1,7 +1,5 @@
 <div align="center">
-<a href="https://www.credly.com/badges/YOUR_BADGE_ID" target="_blank">
-  <img src="https://images.credly.com/images/b2c0b492-138c-4cd5-8c51-a61a3e742418/blob" alt="Google IT Automation with Python Badge" width="200"/>
-</a>       
+![Google Digital Marketing & E-commerce Professional Certificate](https://raw.githubusercontent.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/refs/heads/main/bar-graph-chart-image/GoogleDigitalMarketing%26E-commerceProfessionalCertifica%28v.2%29.png)     
 </div>                                                    
   
 Live URL:  https://aminbiography.github.io/Google-Digital-Marketing---E-commerce-Professional-Certificate/   
