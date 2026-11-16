@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://images.credly.com/size/680x680/images/88d946d8-1850-43a5-a1b6-d4ce600cecb0/blob" width="30%" alt="Google Digital Marketing Certificate Badge">
 </p>                                            
-  
+    
 Live URL:  https://aminbiography.github.io/Google-Digital-Marketing---E-commerce-Professional-Certificate/   
 
 ---    
