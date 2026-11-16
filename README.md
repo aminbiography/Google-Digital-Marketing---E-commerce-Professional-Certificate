@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/refs/heads/main/bar-graph-chart-image/GoogleDigitalMarketing%26E-commerceProfessionalCertifica%28v.2%29.png" width="30%" alt="Google Digital Marketing & E-commerce Professional Certificate">
   <img src="https://images.credly.com/size/680x680/images/88d946d8-1850-43a5-a1b6-d4ce600cecb0/blob" width="30%" alt="Google Digital Marketing Certificate Badge">
 </p>                                            
   
