@@ -1,6 +1,7 @@
 
-![Google Digital Marketing & E-commerce Professional Certificate](https://raw.githubusercontent.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/refs/heads/main/bar-graph-chart-image/GoogleDigitalMarketing%26E-commerceProfessionalCertifica%28v.2%29.png)     
-</div>                                                    
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aminbiography/Google-Digital-Marketing---E-commerce-Professional-Certificate/refs/heads/main/bar-graph-chart-image/GoogleDigitalMarketing%26E-commerceProfessionalCertifica%28v.2%29.png" width="50%" alt="Google Digital Marketing & E-commerce Professional Certificate">
+</p>                                                 
   
 Live URL:  https://aminbiography.github.io/Google-Digital-Marketing---E-commerce-Professional-Certificate/   
 
